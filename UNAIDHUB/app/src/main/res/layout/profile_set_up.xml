@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:background="@drawable/bg_view"
+
+        />
+
+
+
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vector_stroke"
+        android:padding="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/darkblue"
+        />
+
+
+    <View
+        android:layout_width="370dp"
+        android:layout_height="480dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/popup" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile Set Up"
+        android:textColor="@color/black"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="150dp"/>
+
+    <Button
+
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="280dp"
+        android:background="@drawable/round_button"
+        android:padding="15dp"
+        android:text="As Organization"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+
+    <Button
+
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/round_button"
+        android:drawableRight="@drawable/monotone"
+        android:padding="15dp"
+        android:text="As User"
+        android:textColor="@color/white"
+        android:textSize="20dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="170dp"
+        android:background="@drawable/roundwhitebackground"
+        app:srcCompat="@drawable/cross" />
+
+
+</RelativeLayout>

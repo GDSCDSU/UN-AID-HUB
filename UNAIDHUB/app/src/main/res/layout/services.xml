@@ -1,0 +1,391 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToOutline="true"
+    android:background="#F2F5F9"
+    tools:ignore="UnusedAttribute">
+
+    <View
+        android:id="@+id/rectangle_1"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-38dp"
+        android:layout_marginEnd="0dp"
+        android:background="@drawable/rectangle_1" />
+
+    <View
+        android:id="@+id/group_33892"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/group_33892" />
+
+    <TextView
+        android:id="@+id/services_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="69dp"
+        android:gravity="center_horizontal|top"
+        android:text="@string/services"
+        android:textAppearance="@style/sign_up" />
+
+    <TextView
+        android:id="@+id/donation_services_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="137dp"
+        android:gravity="top"
+        android:lineSpacingExtra="7sp"
+        android:text="@string/donation_services"
+        android:textAppearance="@style/text"
+        android:translationY="-3.28sp" />
+
+    <View
+        android:id="@+id/vector"
+        android:layout_width="20.15dp"
+        android:layout_height="20.15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="274dp"
+        android:layout_marginTop="29dp"
+        android:background="@drawable/vector" />
+
+    <View
+        android:id="@+id/group_33876"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="299dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/group_33876"
+        android:text="@string/select_cont" />
+
+    <View
+        android:id="@+id/group_33877"
+        android:layout_width="320dp"
+        android:layout_height="98dp"
+        android:layout_below="@+id/rectangle_1"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="42dp"
+        android:background="@drawable/rectangle_5" />
+
+
+    <TextView
+        android:id="@+id/service_label_1"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_alignTop="@+id/group_33877"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="38dp"
+        android:text="@string/service1"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/service_image_1"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignStart="@+id/group_33877"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="263dp"
+        android:contentDescription="download_4"
+        android:src="@drawable/blood" />
+
+
+    <View
+        android:id="@+id/solid_chevron_right_md"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignEnd="@+id/group_33877"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="289dp"
+        android:layout_marginEnd="14dp"
+        android:background="@drawable/solid_chevron_right_md" />
+
+
+    <View   android:id="@+id/group_33885"
+        android:background="@drawable/rectangle_5"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="360dp"
+        android:layout_width="320dp"
+        android:layout_height="98dp" />
+
+
+    <TextView
+        android:id="@+id/service_label_2"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/group_33885"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="35dp"
+        android:text="@string/service2"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <View   android:id="@+id/solid_chevron_right_md2"
+        android:background="@drawable/solid_chevron_right_md"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="395dp"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp" />
+
+    <ImageView
+        android:id="@+id/service_image_2"
+        android:layout_width="77dp"
+        android:layout_height="67dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="369dp"
+        android:contentDescription="_46688_1"
+        android:src="@drawable/water_relief" />
+
+
+    <View   android:id="@+id/group_33886"
+        android:background="@drawable/rectangle_5"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="466dp"
+        android:layout_width="320dp"
+        android:layout_height="98dp" />
+
+    <ImageView android:id="@+id/service_image_3"
+        android:src="@drawable/food"
+        android:contentDescription="_1_5694334"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="475dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+
+
+    <TextView
+        android:id="@+id/service_label_3"
+
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/group_33885"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="47dp"
+        android:text="@string/service3"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <View   android:id="@+id/solid_chevron_right_md4"
+        android:background="@drawable/solid_chevron_right_md"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="501dp"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp" />
+
+
+    <View   android:id="@+id/group_33887"
+        android:background="@drawable/rectangle_5"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="572dp"
+        android:layout_width="320dp"
+        android:layout_height="98dp" />
+
+    <ImageView android:id="@+id/service_image_4"
+        android:src="@drawable/shelter"
+        android:contentDescription="tqbyysikdpzbycmhzqodpfpy1g0lemohcfsanjo2_1"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="581dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+
+
+    <TextView
+        android:id="@+id/service_label_4"
+        android:layout_width="141dp"
+        android:layout_height="42dp"
+        android:layout_alignTop="@+id/group_33887"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="30dp"
+        android:text="@string/service4"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <View   android:id="@+id/solid_chevron_right_md5"
+        android:background="@drawable/solid_chevron_right_md"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="607dp"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp" />
+
+
+    <View   android:id="@+id/group_33888"
+        android:background="@drawable/rectangle_5"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="678dp"
+        android:layout_width="320dp"
+        android:layout_height="98dp" />
+
+    <ImageView android:id="@+id/service_image_5"
+        android:src="@drawable/med_supp"
+        android:contentDescription="download__2__1"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="687dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp" />
+
+
+    <TextView
+        android:id="@+id/service_label_5"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_alignTop="@+id/group_33888"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/service5"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <View   android:id="@+id/solid_chevron_right_md6"
+        android:background="@drawable/solid_chevron_right_md"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="713dp"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp" />
+
+
+    <View
+        android:id="@+id/rectangle_10"
+        android:layout_width="30dp"
+        android:layout_height="26.08dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30.5dp"
+        android:layout_marginTop="795dp"
+        android:background="@drawable/home" />
+
+    <TextView
+        android:id="@+id/home"
+        android:layout_width="30dp"
+        android:layout_height="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="826dp"
+        android:gravity="top"
+        android:text="@string/home"
+        android:textAppearance="@style/home" />
+
+    <View
+        android:id="@+id/group_33840"
+        android:layout_width="30dp"
+        android:layout_height="26.08dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="122dp"
+        android:layout_marginTop="795dp"
+        android:background="@drawable/services"/>
+
+    <TextView
+        android:id="@+id/services"
+        android:layout_width="41dp"
+        android:layout_height="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="116dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="826.84dp"
+        android:text="@string/services"
+        android:textAppearance="@style/services"
+        android:gravity="top"
+        />
+
+    <!-- Auto layout, variables, and unit scale are not yet supported -->
+    <View
+        android:id="@+id/Donations"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="209dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="795dp"
+        android:background="@drawable/donations"
+        />
+
+    <TextView
+        android:id="@+id/donations"
+        android:layout_width="48dp"
+        android:layout_height="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="198dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="826.84dp"
+        android:text="@string/donations"
+        android:textAppearance="@style/donations"
+        android:gravity="top"
+        />
+
+    <View
+        android:id="@+id/account_box"
+        android:layout_width="30dp"
+        android:layout_height="29.08dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="793dp"
+        android:layout_marginRight="48dp"
+        android:background="@drawable/account" />
+
+
+    <!-- Auto layout, variables, and unit scale are not yet supported -->
+    <TextView
+        android:id="@+id/my_account"
+        android:layout_width="57dp"
+        android:layout_height="13dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="831dp"
+        android:layout_marginEnd="33dp"
+        android:gravity="top"
+        android:text="@string/my_account"
+        android:textAppearance="@style/home" />
+
+    <RelativeLayout
+        android:id="@+id/navigation"
+        android:layout_width="360dp"
+        android:layout_height="22dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginTop="850dp">
+
+        <View
+            android:id="@+id/rectangle_4"
+            android:layout_width="125dp"
+            android:layout_height="5dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="111dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginRight="124dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/navrectangle" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

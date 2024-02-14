@@ -1,0 +1,143 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/frame">
+
+
+    <TextView
+        android:id="@+id/support_heading"
+
+        android:layout_width="177.3dp"
+        android:layout_height="37.3dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginStart="109dp"
+        android:layout_marginLeft="52dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="124dp"
+        android:gravity="center"
+        android:text="@string/chatsupport"
+        android:textColor="@color/black"
+        android:textSize="13sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/close_button"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="173dp"
+        android:layout_marginTop="-121dp"
+        android:layout_marginEnd="174dp"
+        android:layout_marginBottom="126dp"
+        android:background="@drawable/button_icon_fab" />
+
+
+    <TextView
+        android:id="@+id/header_1"
+        android:layout_width="226dp"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="98dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="86dp"
+        android:layout_marginBottom="596dp"
+        android:text="@string/Help"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/support_text"
+        android:layout_width="319dp"
+        android:layout_height="97dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginStart="47dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="108.83dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="477dp"
+        android:gravity="center"
+        android:text="@string/supportdesc"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/button"
+        android:layout_width="295dp"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="63dp"
+        android:layout_marginTop="179.83dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="328dp"
+        android:background="@drawable/button" />
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="182.6dp"
+        android:layout_height="24.6dp"
+        android:layout_alignStart="@+id/button"
+        android:layout_alignTop="@+id/button"
+        android:layout_alignEnd="@+id/button"
+        android:layout_alignBottom="@+id/button"
+        android:layout_marginStart="61dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="53dp"
+        android:layout_marginBottom="15dp"
+        android:text="@string/btn_Heading_1"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/button2"
+        android:layout_width="295dp"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="253.83dp"
+        android:layout_marginEnd="53dp"
+        android:layout_marginBottom="238dp"
+        android:background="@drawable/button" />
+
+
+    <TextView
+        android:id="@+id/text22"
+        android:layout_width="186.6dp"
+        android:layout_height="24.6dp"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignTop="@+id/button2"
+        android:layout_alignEnd="@+id/button2"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_marginStart="58dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="17dp"
+        android:text="@string/btn_Heading_2"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

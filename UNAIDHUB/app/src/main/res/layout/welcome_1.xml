@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/frame">
+
+
+    <View
+        android:id="@+id/logo"
+        android:layout_width="114.7dp"
+        android:layout_height="101.9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="139dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="158dp"
+        android:layout_marginBottom="582dp"
+        android:background="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/welcome_to_asklepios_ui_kit"
+        android:layout_width="242dp"
+        android:layout_height="88dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginStart="81dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="117.9dp"
+        android:layout_marginEnd="88dp"
+        android:layout_marginBottom="483dp"
+        android:fontFamily="Google Sans"
+        android:gravity="center"
+        android:text="@string/welcome_to_asklepios_ui_kit_string"
+        android:textColor="@color/welcome_to_asklepios_ui_kit_color"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/image_1"
+        android:layout_width="311.23dp"
+        android:layout_height="274.53dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="225.9dp"
+        android:layout_marginEnd="55dp"
+        android:layout_marginBottom="192dp"
+        android:background="@drawable/image_1_shape" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="259dp"
+        android:layout_height="24.6dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginStart="65dp"
+        android:layout_marginLeft="26.61dp"
+        android:layout_marginTop="532.44dp"
+        android:layout_marginEnd="87dp"
+        android:layout_marginBottom="139dp"
+        android:fontFamily="Google Sans"
+        android:gravity="center"
+        android:text="@string/text_string"
+        android:textColor="@color/text_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/button"
+        android:layout_width="181dp"
+        android:layout_height="56dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="584.44dp"
+        android:layout_marginEnd="122dp"
+        android:layout_marginBottom="67dp"
+        android:background="@drawable/button" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="103.6dp"
+        android:layout_height="24.6dp"
+        android:layout_alignStart="@+id/button"
+        android:layout_alignEnd="@+id/button"
+        android:layout_alignBottom="@+id/button"
+        android:layout_marginStart="40dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginBottom="15dp"
+        android:fontFamily="Google Sans"
+        android:text="@string/text_string"
+        android:textColor="@color/text_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
