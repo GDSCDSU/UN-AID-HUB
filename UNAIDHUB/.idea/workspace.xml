@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/blood_donate_confirm.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/blood_donate_service.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/chatsupport.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/creditcarddetails.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/donate_confirm_1.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/donate_service_1.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/donate_service_2.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/donations.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/food_type_service.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/livechat.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/location.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/medical_supplies_service.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/notifications.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/password_sent.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/profile_set_up.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/profile_set_up2.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/profilesuccesfull.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/searchbar.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/services.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/water_relief_confirm.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/welcome_1.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/welcome_2.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/welcome_3.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/welcome_4.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68fd0f48-cad8-4ef5-9921-8100c6a691f1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cMqiw1RwKjUqlLHfjYHlfb5K3X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/amish/AndroidStudioProjects/UNAIDHUB/app/src/main/res/drawable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amish\AndroidStudioProjects\UNAIDHUB\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68fd0f48-cad8-4ef5-9921-8100c6a691f1" name="Changes" comment="" />
+      <created>1707931925531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707931925531</updated>
+    </task>
+    <servers />
+  </component>
+</project>
