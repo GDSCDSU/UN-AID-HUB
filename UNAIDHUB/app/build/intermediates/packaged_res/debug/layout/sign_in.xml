@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/bg_view"
+
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo1"
+        android:layout_marginTop="40dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign In"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email Address"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_marginTop="260dp"
+        android:textColor="@color/black"
+
+        android:layout_gravity="left" />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  elemantary221b@gmail.coI"
+        android:drawableLeft="@drawable/email"
+        android:background="@drawable/rounded_corner"
+        android:padding="17dp"
+        android:layout_marginTop="290dp"
+        android:inputType="textEmailAddress"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_marginTop="370dp"
+        android:textColor="@color/black"
+
+        android:layout_gravity="left" />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="       ************* "
+        android:background="@drawable/rounded_corner"
+        android:padding="17dp"
+        android:layout_marginTop="400dp"
+        android:inputType="textEmailAddress"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/monotone_gender_male"
+        android:layout_marginTop="415dp"
+        android:layout_marginLeft="20dp"/>
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="470dp"
+        android:text="Sign In"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:background="@drawable/round_button" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="530dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/or"
+        android:textColor="@color/silver"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fb_icon"
+        android:layout_marginTop="560dp"
+        android:layout_marginLeft="80dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/frame1"
+        android:layout_marginTop="560dp"
+        android:layout_marginLeft="180dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/insta_icon"
+        android:layout_marginTop="560dp"
+        android:layout_marginLeft="280dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="625dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/Signup"
+        android:textColor="@color/silver"
+        android:textSize="15sp" />
+
+
+</RelativeLayout>

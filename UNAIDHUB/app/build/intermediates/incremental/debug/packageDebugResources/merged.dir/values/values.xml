@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="darkblue">#242E49</color>
+    <color name="grey">5D6A85</color>
+    <color name="my_primary">#E2E5EC</color>
+    <color name="my_secondary">#0F67FE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#EF242B</color>
+    <color name="redish">#F1D6D8</color>
+    <color name="silver">#5D6A85</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Google"> <b>Send via Google Auth</b></string>
+    <string name="Help">How can we help you?</string>
+    <string name="Org1">Office of United Nations for High Commissioner for Human Rights(OHCHR)</string>
+    <string name="Org2">United Nations Office for the Coordination of Humanitarian Affairs (OCHA)</string>
+    <string name="Org3">World Food Programme (WFP)</string>
+    <string name="Org4">World Health Organization(WHO)</string>
+    <string name="Org5">United Nations High Commissioner for Refugees (UNHCR)</string>
+    <string name="Resetviaemail"> <b>Send via 2FA</b></string>
+    <string name="SignIn1">
+        Already have an account? <u>Sign In.</u>
+    </string>
+    <string name="SignIn2" ns1:ignore="StringEscaping">
+        Then let's submit Password reset.
+    </string>
+    <string name="SignIn3">
+       <b>Send via Email</b>
+    </string>
+    <string name="Signup" ns1:ignore="StringEscaping">
+        Don't have an account? <u>Sign Up.</u>
+    </string>
+    <string name="Terms">
+        By continuing,you agree to the <u>Terms of Service</u> and acknowledge our <u>Privacy Policy</u>
+</string>
+    <string name="Today">Today 14-jan-2024</string>
+    <string name="UN">United Nations (UN)</string>
+    <string name="ali_online_status">Ali 10:50pm</string>
+    <string name="app_name">UN AID HUB</string>
+    <string name="bilal_online_status">Bilal 10:50pm</string>
+    <string name="bot_chat">Chat Bot</string>
+    <string name="bot_online_status">Bot 10:50pm</string>
+    <string name="btn_Heading_1">Contact with Bot Chat</string>
+    <string name="btn_Heading_2">Contact with Live Chat</string>
+    <string name="btn_Heading_3">Request Send</string>
+    <string name="btn_heading_4">Donate Now</string>
+    <string name="chat_msg_contact1">Hello Absolutely I would be happy to help, can you specify the type of donation e.g one time,monthly etc.</string>
+    <string name="chat_msg_contact2">Great! To make one time donation simply click the "Donate now" button on the app's donation page</string>
+    <string name="chat_msg_user1">Hi there!I am interested in making a donation through this app can you guide me.</string>
+    <string name="chat_msg_user2">I am thinking of making a one-time donation for now.How can i go about?</string>
+    <string name="chatsupport">Chat with our support team</string>
+    <string name="donate_heading1">Donate Now!</string>
+    <string name="donate_heading2">Donation Done!</string>
+    <string name="donation_services">Donation Services</string>
+    <string name="donations">Donations</string>
+    <string name="home">Home</string>
+    <string name="live">Live News</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="location">Location</string>
+    <string name="my_account">My Account</string>
+    <string name="notification">Notification</string>
+    <string name="notification_opt1">Select Organization</string>
+    <string name="notification_opt2">Select Blood Type</string>
+    <string name="notification_opt3">Type Quantity</string>
+    <string name="notification_opt4">Select Food Type</string>
+    <string name="notification_opt5">Select Medical Supplies</string>
+    <string name="notification_opt6">Type Other Supplies(Optional)</string>
+    <string name="notification_opt7">Select Location</string>
+    <string name="notification_opt8">Select Type</string>
+    <string name="notification_opt9">Amount</string>
+    <string name="or">
+    "_____________________ OR ______________________"
+    </string>
+    <string name="search">search</string>
+    <string name="select_cont">Thousands march on Washington to demand ceasefire in Gaza</string>
+    <string name="select_cont2">Journalist Motaz Azaiza reveals receiving offers to stop documenting war on Gaza.</string>
+    <string name="select_cont3">Sudan conflict displaces hundreds of thousands,urgent need for safety. </string>
+    <string name="select_cont4">Bank of Palestine launches "Palestine in our hearts campaign" for those affected by recent aggression.</string>
+    <string name="select_cont5">Gaza Tower hit by missile attack near journalists during live news report.</string>
+    <string name="service1">Blood Donation Service</string>
+    <string name="service2">Water Relief Service</string>
+    <string name="service3">Food Aid Service</string>
+    <string name="service4">Medical Supplies Assistance</string>
+    <string name="service5">Emergency Shelter Aid</string>
+    <string name="services">Services</string>
+    <string name="sign_up">Home</string>
+    <string name="sms"> <b>Send via SMS</b></string>
+    <string name="supportdesc">Our support team is 24/7 available to address any of your questions you may have about our service, ensuring a smooth experience throughout the entire process. </string>
+    <string name="title_activity_main">MainActivity</string>
+    <style name="Base.Theme.SighninSighnup" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+
+        <item name="colorSecondary">@color/my_secondary</item>
+        <item name="colorSecondaryVariant">@color/my_secondary</item>
+        <item name="android:statusBarColor">@color/my_primary</item>
+    </style>
+    <style name="Base.Theme.UNAIDHUB" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SighninSighnup" parent="Base.Theme.SighninSighnup"/>
+    <style name="Theme.UNAIDHUB" parent="Base.Theme.UNAIDHUB"/>
+    <style name="donations">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">#5D6A85</item>
+    </style>
+    <style name="home">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">#242E49</item>
+    </style>
+    <style name="my_account">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">#5D6A85</item>
+    </style>
+    <style name="notification">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">#242E49</item>
+    </style>
+    <style name="select_cont">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="services">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">#5D6A85</item>
+    </style>
+    <style name="sign_up">
+        <item name="android:textSize">48sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#DCE1E8</item>
+    </style>
+    <style name="user_chat">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:fontFamily">Google Sans</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

@@ -106,11 +106,23 @@
     <string name="SignIn2" tools:ignore="StringEscaping">
         Then let's submit Password reset.
     </string>
-    <string name="SignIn3">
-       <b>Send via Email</b>
-    </string>
+    <string name="SignIn3"><b>Send via Email</b></string>
     <string name="Resetviaemail"> <b>Send via 2FA</b></string>
     <string name="Google"> <b>Send via Google Auth</b></string>
     <string name="sms"> <b>Send via SMS</b></string>
+
+
+    <string name="welcome_header1">Welcome to UN AID HUB </string>
+    <string name="signmsg">Already have an account? Sign in. </string>
+    <string name="btn_text1">Get Started </string>
+    <string name="skip">Skip</string>
+    <string name="welcome_msg_1">Connect for global good and join hands in humanitarian unity.</string>
+
+    <string name="welcome_header2">Where Every Effort Matters </string>
+    <string name="welcome_msg_2">In our community every effort matters,contributing to meaningful change and progress.</string>
+
+    <string name="welcome_header3">Aid Chatbot for All </string>
+    <string name="welcome_msg_3">Experience connect you to resources, and support your efforts for a positive global impact.</string>
+
 
 </resources>

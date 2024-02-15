@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="@drawable/bg_view"
+
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo1"
+        android:layout_marginTop="40dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Un For Free!"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email Address"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_marginTop="260dp"
+        android:textColor="@color/black"
+
+        android:layout_gravity="left" />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="  elemantary221b@gmail.coI"
+        android:drawableLeft="@drawable/email"
+        android:background="@drawable/rounded_corner"
+        android:padding="17dp"
+        android:layout_marginTop="290dp"
+        android:inputType="textEmailAddress"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_marginTop="370dp"
+        android:textColor="@color/black"
+
+        android:layout_gravity="left" />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="       ************* "
+        android:background="@drawable/rounded_corner"
+        android:padding="17dp"
+        android:layout_marginTop="400dp"
+        android:inputType="textPassword"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/monotone_gender_male"
+        android:layout_marginTop="415dp"
+        android:layout_marginLeft="20dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/solid_eye1"
+        android:layout_marginTop="415dp"
+        android:layout_marginLeft="360dp"/>
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password Confirmation"
+        android:layout_marginLeft="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:layout_marginTop="470dp"
+        android:textColor="@color/black"
+        android:layout_gravity="left" />
+
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="         ************* "
+        android:background="@drawable/rounded_corner"
+        android:layout_marginTop="500dp"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/monotone_gender_male"
+        android:layout_marginTop="509dp"
+        android:layout_marginLeft="20dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/solid_eye1"
+        android:layout_marginTop="509dp"
+        android:layout_marginLeft="360dp"/>
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ERROR: pasword donot match"
+       android:textColor="@color/red"
+        android:background="@drawable/rounded_corner"
+        android:padding="6dp"
+        android:layout_marginTop="550dp"
+        android:gravity="center"
+        android:drawableLeft="@drawable/solid_warning"
+        android:backgroundTint="@color/redish"
+        />
+
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="590dp"
+        android:text="Sign In"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:background="@drawable/round_button"
+
+        />
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="635dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/SignIn1"
+        android:textColor="@color/silver"
+        android:textSize="15sp"
+
+        />
+
+
+</RelativeLayout>

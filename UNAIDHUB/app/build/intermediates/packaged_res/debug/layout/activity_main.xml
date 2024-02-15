@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="28dp">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/logo" />
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_gravity="center"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UN Aid Hub"
+                android:fontFamily="sans-serif-medium"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:textColor="@color/my_secondary"
+                android:layout_gravity="center"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Log in or create in account"
+                android:fontFamily="sans-serif-medium"
+                android:textSize="16sp"
+                android:textColor="@color/silver"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="left" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email Address"
+                android:fontFamily="sans-serif-medium"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/black"
+                android:layout_gravity="left" />
+
+<EditText
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="  elemantary221b@gmail.coI"
+    android:drawableLeft="@drawable/email"
+    android:background="@drawable/rounded_corner"
+    android:padding="17dp"
+    android:inputType="textEmailAddress"/>
+
+            <Button
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Continue"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:background="@drawable/round_button"
+
+                />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/or"
+                android:fontFamily="sans-serif-medium"
+                android:textSize="15sp"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/silver"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/Terms"
+                android:fontFamily="sans-serif-medium"
+                android:textSize="15sp"
+                android:layout_marginTop="16dp"
+                android:textColor="@color/silver"/>
+
+            <Button
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Continue with Google"
+                android:textColor="@color/my_secondary"
+                android:drawableLeft="@drawable/google_1"
+                android:background="@drawable/rounded_corner"
+                android:padding="10dp"
+                android:textSize="20dp"/>
+
+            <Button
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Create Account"
+                android:textColor="@color/my_secondary"
+                android:background="@drawable/rounded_corner"
+
+                android:textSize="20dp"/>
+
+
+        </LinearLayout>
+
+
+
+            </RelativeLayout>
+
