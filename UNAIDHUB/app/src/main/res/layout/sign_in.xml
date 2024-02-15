@@ -108,7 +108,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/frame"
+        android:src="@drawable/fb_icon"
         android:layout_marginTop="560dp"
         android:layout_marginLeft="80dp"/>
     <ImageView
@@ -121,7 +121,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/frame2"
+        android:src="@drawable/insta_icon"
         android:layout_marginTop="560dp"
         android:layout_marginLeft="280dp"/>
 

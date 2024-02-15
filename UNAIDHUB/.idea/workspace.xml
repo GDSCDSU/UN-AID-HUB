@@ -50,6 +50,21 @@
           <theme>@style/Theme.UNAIDHUB</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/emergency_shelter_confirm.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/emergency_shelter_service.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/food_service_confirm.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/food_type_service.xml">
         <config>
           <theme>@style/Theme.UNAIDHUB</theme>
@@ -61,6 +76,11 @@
         </config>
       </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/location.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/medical_supplies_confirm.xml">
         <config>
           <theme>@style/Theme.UNAIDHUB</theme>
         </config>
@@ -110,7 +130,17 @@
           <theme>@style/Theme.UNAIDHUB</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/sign_in.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/water_relief_confirm.xml">
+        <config>
+          <theme>@style/Theme.UNAIDHUB</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/water_relief_service.xml">
         <config>
           <theme>@style/Theme.UNAIDHUB</theme>
         </config>
@@ -141,15 +171,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68fd0f48-cad8-4ef5-9921-8100c6a691f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_primary.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/progress_bar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+    <list default="true" id="68fd0f48-cad8-4ef5-9921-8100c6a691f1" name="Changes" comment="new_files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/welcome_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/welcome_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fb_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/frame2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/insta_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/blood_donate_service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/blood_donate_service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/sign_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/sign_in.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,6 +341,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707931925531</updated>
     </task>
+    <task id="LOCAL-00001" summary="new_files">
+      <option name="closed" value="true" />
+      <created>1707986288451</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707986288451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new_files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new_files" />
   </component>
 </project>
