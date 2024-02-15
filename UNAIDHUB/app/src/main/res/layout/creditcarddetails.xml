@@ -178,7 +178,7 @@
         android:id="@+id/imageButton4"
         android:layout_width="60dp"
         android:layout_height="50dp"
-        app:srcCompat="@drawable/solid_chevron_right_md"
+        app:srcCompat="@drawable/solid_chevron_right"
         android:layout_marginTop="600dp"
         android:background="@drawable/rounddarkbutton"
         android:layout_marginLeft="320dp"
