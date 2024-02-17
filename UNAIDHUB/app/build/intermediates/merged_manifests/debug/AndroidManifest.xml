@@ -28,13 +28,22 @@
         android:testOnly="true"
         android:theme="@style/Theme.UNAIDHUB" >
         <activity
+            android:name="com.example.unaidhub.Home"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.Signup"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.Signin"
+            android:exported="false" />
+        <activity
             android:name="com.example.unaidhub.Welcome4"
             android:exported="false" />
         <activity
             android:name="com.example.unaidhub.Welcome3"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.welcome_2"
+            android:name="com.example.unaidhub.Welcome2"
             android:exported="false" />
         <activity
             android:name="com.example.unaidhub.MainActivity"

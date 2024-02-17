@@ -3194,6 +3194,9 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id Sign_in
+id Sign_in_btn
+id Sign_up_btn
 id TOP_END
 id TOP_START
 id __p__achieve_your_wellness_goals_with_our_ai_powered_platform_to_your_unique_needs
@@ -3377,6 +3380,7 @@ id east
 id edge
 id edit_query
 id elastic
+id email_box
 id embed
 id emergency_header
 id end
@@ -3387,6 +3391,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id fb_btn
 id fill
 id fill_horizontal
 id fill_vertical
@@ -3408,6 +3413,7 @@ id fullscreen_header
 id ghost_view
 id ghost_view_holder
 id gone
+id google_btn
 id graph
 id graph_wrap
 id group_33840
@@ -3455,6 +3461,7 @@ id immediateStop
 id included
 id indeterminate
 id info
+id insta_btn
 id invisible
 id inward
 id italic
@@ -3613,6 +3620,7 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
+id password_box
 id password_toggle
 id path
 id pathRelative
@@ -3692,8 +3700,11 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id sign_in_text
+id sign_up_text
 id sin
 id skipCollapsed
+id skip_text
 id skipped
 id slide
 id snackbar_action
@@ -3926,7 +3937,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_main
 layout blood_donate_confirm
 layout blood_donate_service
 layout chatbot
@@ -3960,6 +3970,7 @@ layout forgot_password
 layout home
 layout livechat
 layout location
+layout login
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title

@@ -1,14 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/home_page"
-    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F2F5F9"
-    tools:ignore="UnusedAttribute">
+    android:layout_width="match_parent"
+    >
 
 
-    <!-- Auto layout, variables, and unit scale are not yet supported -->
+
+<!-- Auto layout, variables, and unit scale are not yet supported -->
 
     <View
         android:id="@+id/rectangle_1"
@@ -368,30 +367,7 @@
         android:text="@string/my_account"
         android:textAppearance="@style/home" />
 
-    <RelativeLayout
-        android:id="@+id/navigation"
-        android:layout_width="360dp"
-        android:layout_height="22dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginLeft="11dp"
-        android:layout_marginTop="850dp">
 
-        <View
-            android:id="@+id/rectangle_4"
-            android:layout_width="125dp"
-            android:layout_height="5dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentBottom="true"
-            android:layout_marginLeft="111dp"
-            android:layout_marginTop="7dp"
-            android:layout_marginRight="124dp"
-            android:layout_marginBottom="10dp"
-            android:background="@drawable/navrectangle" />
-
-    </RelativeLayout>
 
     <!-- Auto layout, variables, and unit scale are not yet supported -->
 

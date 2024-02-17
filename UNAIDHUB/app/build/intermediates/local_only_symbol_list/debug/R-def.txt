@@ -117,6 +117,9 @@ id Blood_Donation_Heading
 id Blood_Service_Heading
 id Donation_header
 id Donations
+id Sign_in
+id Sign_in_btn
+id Sign_up_btn
 id __p__achieve_your_wellness_goals_with_our_ai_powered_platform_to_your_unique_needs
 id _bg__frame
 id _bg__frame2
@@ -139,9 +142,12 @@ id date_header_3
 id donate_now
 id donation_services_header
 id donations
+id email_box
 id emergency_header
+id fb_btn
 id food_service_header
 id frame
+id google_btn
 id group_33840
 id group_33845
 id group_33854
@@ -169,6 +175,7 @@ id imageButton2
 id imageButton3
 id imageButton4
 id image_1
+id insta_btn
 id live_chat_1
 id live_chat_2
 id live_chat_header
@@ -207,6 +214,7 @@ id org_label_2
 id org_label_3
 id org_label_4
 id org_label_5
+id password_box
 id personalize_your_health_with_intelligent_ai
 id rectangle_1
 id rectangle_10
@@ -235,6 +243,9 @@ id service_label_5
 id service_shelter
 id services
 id services_header
+id sign_in_text
+id sign_up_text
+id skip_text
 id solid_chevron_right_md
 id solid_chevron_right_md2
 id solid_chevron_right_md4
@@ -256,7 +267,6 @@ id water_service_header
 id welcome_button
 id welcome_screen_progress
 id welcome_to_asklepios_ui_kit
-layout activity_main
 layout blood_donate_confirm
 layout blood_donate_service
 layout chatbot
@@ -274,6 +284,7 @@ layout forgot_password
 layout home
 layout livechat
 layout location
+layout login
 layout medical_supplies_confirm
 layout medical_supplies_service
 layout notifications
