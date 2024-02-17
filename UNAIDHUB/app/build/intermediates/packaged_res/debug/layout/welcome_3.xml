@@ -25,24 +25,22 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="17dp"
         android:layout_marginBottom="680dp"
-        android:fontFamily="Google Sans"
-        android:text="@string/text_string"
-        android:textColor="@color/text_color"
+        android:text="@string/skip"
+        android:textColor="@color/black"
         android:textSize="16sp" />
 
     <TextView
         android:id="@+id/personalize_your_health_with_intelligent_ai"
-        android:layout_width="365dp"
-        android:layout_height="47dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="13dp"
         android:layout_marginEnd="33dp"
-        android:layout_marginBottom="596dp"
-        android:fontFamily="Google Sans"
-        android:text="@string/personalize_your_health_with_intelligent_ai_string"
-        android:textColor="@color/personalize_your_health_with_intelligent_ai_color"
+        android:layout_marginBottom="568dp"
+        android:text="@string/welcome_header2"
+        android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -57,10 +55,9 @@
         android:layout_marginLeft="0dp"
         android:layout_marginTop="50dp"
         android:layout_marginEnd="41dp"
-        android:layout_marginBottom="521dp"
-        android:fontFamily="Google Sans"
-        android:text="@string/__p__achieve_your_wellness_goals_with_our_ai_powered_platform_to_your_unique_needs_string"
-        android:textColor="@color/__p__achieve_your_wellness_goals_with_our_ai_powered_platform_to_your_unique_needs_color"
+        android:layout_marginBottom="487dp"
+        android:text="@string/welcome_msg_2"
+        android:textColor="@color/black"
         android:textSize="16sp" />
 
     <ImageView
@@ -79,7 +76,7 @@
         android:src="@drawable/welcomeimg3" />
 
     <View
-        android:id="@+id/_bg__button_primary"
+        android:id="@+id/next_btn_welcome3"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_alignParentEnd="true"

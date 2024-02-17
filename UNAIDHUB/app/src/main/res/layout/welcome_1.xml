@@ -67,12 +67,12 @@
         android:layout_marginBottom="139dp"
         android:gravity="center"
         android:text="@string/signmsg"
-        android:textColor="@color/darkblue"
+        android:textColor="@color/dark_blue"
         android:textSize="16sp"
         android:textStyle="bold" />
 
     <View
-        android:id="@+id/button"
+        android:id="@+id/welcome_button"
         android:layout_width="181dp"
         android:layout_height="56dp"
         android:layout_alignParentStart="true"
@@ -88,9 +88,9 @@
         android:id="@+id/text2"
         android:layout_width="103.6dp"
         android:layout_height="24.6dp"
-        android:layout_alignStart="@+id/button"
-        android:layout_alignEnd="@+id/button"
-        android:layout_alignBottom="@+id/button"
+        android:layout_alignStart="@+id/welcome_button"
+        android:layout_alignEnd="@+id/welcome_button"
+        android:layout_alignBottom="@+id/welcome_button"
         android:layout_marginStart="40dp"
         android:layout_marginLeft="0dp"
         android:layout_marginTop="2dp"

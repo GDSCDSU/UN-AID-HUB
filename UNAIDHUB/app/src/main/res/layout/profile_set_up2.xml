@@ -37,7 +37,7 @@
         android:padding="20dp"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
-        android:background="@color/darkblue"
+        android:background="@color/dark_blue"
         />
 
     <ImageButton

@@ -76,7 +76,7 @@
         android:src="@drawable/welcomeimg3" />
 
     <View
-        android:id="@+id/_bg__button_primary"
+        android:id="@+id/next_btn_welcome3"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_alignParentEnd="true"

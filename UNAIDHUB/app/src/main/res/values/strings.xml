@@ -53,7 +53,7 @@
 
 
     <string name="chat_msg_contact1">Hello Absolutely I would be happy to help, can you specify the type of donation e.g one time,monthly etc.</string>
-    <string name="chat_msg_contact2">Great! To make one time donation simply click the "Donate now" button on the app's donation page</string>
+    <string name="chat_msg_contact2">Great! To make one time donation simply click the "Donate now" button on the app donation page</string>
 
     <string name="ali_online_status">Ali 10:50pm</string>
     <string name="bot_online_status">Bot 10:50pm</string>
@@ -89,23 +89,12 @@
     <string name="donate_heading2">Donation Done!</string>
 
 
+    <string name="or">"_____________________ OR ______________________"</string>
+    <string name="Terms">By continuing,you agree to the <u>Terms of Service</u> and acknowledge our <u>Privacy Policy</u></string>
+    <string name="Signup">Dont have an account? <u>Sign Up.</u></string>
+    <string name="SignIn1">Already have an account? <u>Sign In.</u></string>
 
-    <string name="or">
-    "_____________________ OR ______________________"
-    </string>
-    <string name="Terms">
-        By continuing,you agree to the <u>Terms of Service</u> and acknowledge our <u>Privacy Policy</u>
-</string>
-    <string name="Signup" tools:ignore="StringEscaping">
-        Don't have an account? <u>Sign Up.</u>
-    </string>
-    <string name="SignIn1">
-        Already have an account? <u>Sign In.</u>
-    </string>
-
-    <string name="SignIn2" tools:ignore="StringEscaping">
-        Then let's submit Password reset.
-    </string>
+    <string name="SignIn2">Then lets submit Password reset.</string>
     <string name="SignIn3"><b>Send via Email</b></string>
     <string name="Resetviaemail"> <b>Send via 2FA</b></string>
     <string name="Google"> <b>Send via Google Auth</b></string>

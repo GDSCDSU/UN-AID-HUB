@@ -1,7 +1,7 @@
 R_DEF: Internal format may change without notice
 local
 color black
-color darkblue
+color dark_blue
 color grey
 color my_primary
 color my_secondary
@@ -9,7 +9,7 @@ color purple_200
 color purple_500
 color purple_700
 color red
-color redish
+color reddish
 color silver
 color teal_200
 color teal_700
@@ -55,6 +55,7 @@ drawable logo
 drawable logo1
 drawable logo13x
 drawable logo3x
+drawable map
 drawable med_supp
 drawable monotone
 drawable monotone_add
@@ -117,7 +118,6 @@ id Blood_Service_Heading
 id Donation_header
 id Donations
 id __p__achieve_your_wellness_goals_with_our_ai_powered_platform_to_your_unique_needs
-id _bg__button_primary
 id _bg__frame
 id _bg__frame2
 id _bg__frame3
@@ -192,6 +192,9 @@ id news_img_2
 id news_img_3
 id news_img_4
 id news_img_5
+id next_btn_welcome2
+id next_btn_welcome3
+id next_btn_welcome4
 id notification_header
 id online_status
 id online_status_1
@@ -250,9 +253,12 @@ id user_chat_text_1
 id user_chat_text_2
 id vector
 id water_service_header
+id welcome_button
 id welcome_screen_progress
 id welcome_to_asklepios_ui_kit
 layout activity_main
+layout activity_welcome2
+layout activity_welcome3
 layout blood_donate_confirm
 layout blood_donate_service
 layout chatbot
@@ -314,6 +320,7 @@ string btn_Heading_1
 string btn_Heading_2
 string btn_Heading_3
 string btn_heading_4
+string btn_text1
 string chat_msg_contact1
 string chat_msg_contact2
 string chat_msg_user1
@@ -352,9 +359,17 @@ string service4
 string service5
 string services
 string sign_up
+string signmsg
+string skip
 string sms
 string supportdesc
 string title_activity_main
+string welcome_header1
+string welcome_header2
+string welcome_header3
+string welcome_msg_1
+string welcome_msg_2
+string welcome_msg_3
 style Base.Theme.SighninSighnup
 style Base.Theme.UNAIDHUB
 style Theme.SighninSighnup

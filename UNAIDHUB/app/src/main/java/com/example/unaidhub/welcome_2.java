@@ -6,25 +6,25 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class MainActivity extends AppCompatActivity {
-    private View welcomeButton;
-
+public class welcome_2 extends AppCompatActivity {
+    private View welcomeButton2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.welcome_1);
+        setContentView(R.layout.welcome_2);
 
-        welcomeButton = findViewById(R.id.welcome_button);
-        welcomeButton.setOnClickListener(new View.OnClickListener() {
+        welcomeButton2 = findViewById(R.id.next_btn_welcome2);
+
+        welcomeButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                welcomeScreen2();
+                welcomeScreen3();
             }
         });
     }
 
-    public void welcomeScreen2() {
-        Intent intent = new Intent(this, welcome_2.class);
+    public void welcomeScreen3() {
+        Intent intent = new Intent(this, Welcome3.class);
         startActivity(intent);
     }
 }

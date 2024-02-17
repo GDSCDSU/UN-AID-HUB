@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="http://schemas.android.com/tools">
+<resources>
     <color name="black">#FF000000</color>
-    <color name="darkblue">#242E49</color>
-    <color name="grey">5D6A85</color>
+    <color name="dark_blue">#242E49</color>
+    <color name="grey">#5D6A85</color>
     <color name="my_primary">#E2E5EC</color>
     <color name="my_secondary">#0F67FE</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="red">#EF242B</color>
-    <color name="redish">#F1D6D8</color>
+    <color name="reddish">#F1D6D8</color>
     <color name="silver">#5D6A85</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
@@ -22,21 +22,11 @@
     <string name="Org4">World Health Organization(WHO)</string>
     <string name="Org5">United Nations High Commissioner for Refugees (UNHCR)</string>
     <string name="Resetviaemail"> <b>Send via 2FA</b></string>
-    <string name="SignIn1">
-        Already have an account? <u>Sign In.</u>
-    </string>
-    <string name="SignIn2" ns1:ignore="StringEscaping">
-        Then let's submit Password reset.
-    </string>
-    <string name="SignIn3">
-       <b>Send via Email</b>
-    </string>
-    <string name="Signup" ns1:ignore="StringEscaping">
-        Don't have an account? <u>Sign Up.</u>
-    </string>
-    <string name="Terms">
-        By continuing,you agree to the <u>Terms of Service</u> and acknowledge our <u>Privacy Policy</u>
-</string>
+    <string name="SignIn1">Already have an account? <u>Sign In.</u></string>
+    <string name="SignIn2">Then lets submit Password reset.</string>
+    <string name="SignIn3"><b>Send via Email</b></string>
+    <string name="Signup">Dont have an account? <u>Sign Up.</u></string>
+    <string name="Terms">By continuing,you agree to the <u>Terms of Service</u> and acknowledge our <u>Privacy Policy</u></string>
     <string name="Today">Today 14-jan-2024</string>
     <string name="UN">United Nations (UN)</string>
     <string name="ali_online_status">Ali 10:50pm</string>
@@ -48,8 +38,9 @@
     <string name="btn_Heading_2">Contact with Live Chat</string>
     <string name="btn_Heading_3">Request Send</string>
     <string name="btn_heading_4">Donate Now</string>
+    <string name="btn_text1">Get Started </string>
     <string name="chat_msg_contact1">Hello Absolutely I would be happy to help, can you specify the type of donation e.g one time,monthly etc.</string>
-    <string name="chat_msg_contact2">Great! To make one time donation simply click the "Donate now" button on the app's donation page</string>
+    <string name="chat_msg_contact2">Great! To make one time donation simply click the "Donate now" button on the app donation page</string>
     <string name="chat_msg_user1">Hi there!I am interested in making a donation through this app can you guide me.</string>
     <string name="chat_msg_user2">I am thinking of making a one-time donation for now.How can i go about?</string>
     <string name="chatsupport">Chat with our support team</string>
@@ -72,9 +63,7 @@
     <string name="notification_opt7">Select Location</string>
     <string name="notification_opt8">Select Type</string>
     <string name="notification_opt9">Amount</string>
-    <string name="or">
-    "_____________________ OR ______________________"
-    </string>
+    <string name="or">"_____________________ OR ______________________"</string>
     <string name="search">search</string>
     <string name="select_cont">Thousands march on Washington to demand ceasefire in Gaza</string>
     <string name="select_cont2">Journalist Motaz Azaiza reveals receiving offers to stop documenting war on Gaza.</string>
@@ -88,9 +77,17 @@
     <string name="service5">Emergency Shelter Aid</string>
     <string name="services">Services</string>
     <string name="sign_up">Home</string>
+    <string name="signmsg">Already have an account? Sign in. </string>
+    <string name="skip">Skip</string>
     <string name="sms"> <b>Send via SMS</b></string>
     <string name="supportdesc">Our support team is 24/7 available to address any of your questions you may have about our service, ensuring a smooth experience throughout the entire process. </string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="welcome_header1">Welcome to UN AID HUB </string>
+    <string name="welcome_header2">Where Every Effort Matters </string>
+    <string name="welcome_header3">Aid Chatbot for All </string>
+    <string name="welcome_msg_1">Connect for global good and join hands in humanitarian unity.</string>
+    <string name="welcome_msg_2">In our community every effort matters,contributing to meaningful change and progress.</string>
+    <string name="welcome_msg_3">Experience connect you to resources, and support your efforts for a positive global impact.</string>
     <style name="Base.Theme.SighninSighnup" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">@color/my_primary</item>
