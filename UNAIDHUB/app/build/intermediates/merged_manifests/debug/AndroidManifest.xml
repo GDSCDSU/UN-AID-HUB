@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.UNAIDHUB" >
         <activity
+            android:name="com.example.unaidhub.Welcome4"
+            android:exported="false" />
+        <activity
             android:name="com.example.unaidhub.Welcome3"
             android:exported="false" />
         <activity

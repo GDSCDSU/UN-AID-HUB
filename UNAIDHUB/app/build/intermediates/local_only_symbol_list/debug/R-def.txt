@@ -257,8 +257,6 @@ id welcome_button
 id welcome_screen_progress
 id welcome_to_asklepios_ui_kit
 layout activity_main
-layout activity_welcome2
-layout activity_welcome3
 layout blood_donate_confirm
 layout blood_donate_service
 layout chatbot
