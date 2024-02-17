@@ -13,13 +13,31 @@
         android:theme="@style/Theme.UNAIDHUB"
         tools:targetApi="31">
         <activity
+            android:name=".MyAccounts"
+            android:exported="false" />
+        <activity
+            android:name=".Donation"
+            android:exported="false" />
+        <activity
+            android:name=".Service"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".Signup"
+            android:exported="false" />
+        <activity
+            android:name=".Signin"
+            android:exported="false" />
+        <activity
             android:name=".Welcome4"
             android:exported="false" />
         <activity
             android:name=".Welcome3"
             android:exported="false" />
         <activity
-            android:name=".welcome_2"
+            android:name=".Welcome2"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

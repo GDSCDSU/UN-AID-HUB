@@ -5,28 +5,28 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
-    private View welcomeButton;
-    private TextView sign_in;
-
+public class Signup extends AppCompatActivity {
+    private Button Sign_up;
+    private TextView Sign_in;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.welcome_1);
+        setContentView(R.layout.signup_for_free);
 
-        welcomeButton = findViewById(R.id.welcome_button);
-        sign_in = findViewById(R.id.Sign_in);
+        Sign_up = (Button) findViewById(R.id.Sign_up_btn);
+        Sign_in = findViewById(R.id.sign_in_text);
 
-        welcomeButton.setOnClickListener(new View.OnClickListener() {
+        Sign_up.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                welcomeScreen2();
+                setSign_up();
             }
         });
 
-        sign_in.setOnClickListener(new View.OnClickListener() {
+        Sign_in.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 setSign_in();
@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void welcomeScreen2() {
-        Intent intent = new Intent(this, Welcome2.class);
+    public void setSign_up(){
+        Intent intent = new Intent(this, Home.class);
         startActivity(intent);
     }
 

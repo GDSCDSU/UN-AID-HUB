@@ -5,41 +5,42 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
-public class Welcome3 extends AppCompatActivity {
-    private View welcomeButton3;
-    private TextView skipButton;
+public class Signin extends AppCompatActivity {
+    private Button Sign_in;
+    private TextView Sign_up;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.welcome_3);
+        setContentView(R.layout.sign_in);
 
-        welcomeButton3 = findViewById(R.id.next_btn_welcome3);
-        skipButton = findViewById(R.id.skip_text);
+        Sign_in = (Button) findViewById(R.id.Sign_in_btn);
+        Sign_up = findViewById(R.id.sign_up_text);
 
-        welcomeButton3.setOnClickListener(new View.OnClickListener() {
+        Sign_in.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                welcomeScreen4();
+                setSign_in();
             }
         });
 
-        skipButton.setOnClickListener(new View.OnClickListener() {
+        Sign_up.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                skip_function();
+                setSign_up();
             }
         });
     }
 
-    public void welcomeScreen4() {
-        Intent intent = new Intent(this, Welcome4.class);
+    public void setSign_in(){
+        Intent intent = new Intent(this, Home.class);
         startActivity(intent);
     }
 
-    public void skip_function() {
+    public void setSign_up(){
         Intent intent = new Intent(this, Signup.class);
         startActivity(intent);
     }
