@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void setSign_in(){
-        Intent intent = new Intent(this, Signin.class);
+        Intent intent = new Intent(this, Login.class);
         startActivity(intent);
     }
 }

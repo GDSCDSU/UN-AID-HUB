@@ -89,7 +89,7 @@
     <string name="donate_heading2">Donation Done!</string>
 
     <string name="signintext">Sign in</string>
-    <string name="signuptext">Sign in</string>
+    <string name="signuptext">Sign up</string>
 
     <string name="profile_setup_user">User</string>
     <string name="profile_setup_org">Organization</string>
@@ -119,6 +119,10 @@
     <string name="Resetviaemail"> <b>Send via 2FA</b></string>
     <string name="Google"> <b>Send via Google Auth</b></string>
     <string name="sms"> <b>Send via SMS</b></string>
+
+    <string name="continue1">Continue</string>
+    <string name="continue2">Continue with Google</string>
+    <string name="continue3">Create Account</string>
 
 
     <string name="welcome_header1">Welcome to UN AID HUB </string>

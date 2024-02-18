@@ -26,7 +26,7 @@ public class Welcome4 extends AppCompatActivity {
     }
 
     public void SignUp() {
-        Intent intent = new Intent(this, Signup.class);
+        Intent intent = new Intent(this, Login.class);
         startActivity(intent);
     }
 

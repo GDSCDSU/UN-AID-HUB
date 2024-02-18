@@ -28,6 +28,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.UNAIDHUB" >
         <activity
+            android:name="com.example.unaidhub.SetCard"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.Credit_Card"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.OrgSetup"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.MyAccount"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.Login"
+            android:exported="false" />
+        <activity
             android:name="com.example.unaidhub.MyAccounts"
             android:exported="false" />
         <activity

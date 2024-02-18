@@ -3018,6 +3018,7 @@ drawable frame1
 drawable frame2
 drawable frame3
 drawable frame33x
+drawable general
 drawable google13x
 drawable google_1
 drawable group_33876
@@ -3143,6 +3144,7 @@ drawable rectangle_29
 drawable rectangle_5
 drawable rectangle_50
 drawable rectangle_51
+drawable red_chevron
 drawable round_button
 drawable rounddarkbutton
 drawable rounded_corner
@@ -3189,6 +3191,7 @@ id Donation_header
 id FUNCTION
 id META
 id NO_DEBUG
+id Org_btn
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3199,10 +3202,12 @@ id Sign_in_btn
 id Sign_up_btn
 id TOP_END
 id TOP_START
+id User_btn
 id __p__achieve_your_wellness_goals_with_our_ai_powered_platform_to_your_unique_needs
 id _bg__frame
 id _bg__frame2
 id _bg__frame3
+id _bg__google_1
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -3292,6 +3297,7 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btn_text
+id btn_text2
 id button
 id button2
 id buttonPanel
@@ -3377,11 +3383,13 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editText
+id editText2
+id editText3
 id edit_query
 id elastic
 id email_box
 id embed
-id emergency_header
 id end
 id endToStart
 id enterAlways
@@ -3403,7 +3411,6 @@ id fitXY
 id fixed
 id flip
 id floating
-id food_service_header
 id forever
 id fragment_container_view_tag
 id frame
@@ -3415,6 +3422,7 @@ id gone
 id google_btn
 id graph
 id graph_wrap
+id group_33844
 id group_33845
 id group_33854
 id group_33876
@@ -3429,7 +3437,6 @@ id group_33891
 id group_33892
 id group_33906
 id group_33908
-id group_339081
 id group_60
 id group_divider
 id grouping
@@ -3455,6 +3462,7 @@ id imageButton
 id imageButton2
 id imageButton3
 id imageButton4
+id imageView
 id image_1
 id immediateStop
 id included
@@ -3482,6 +3490,7 @@ id live_chat_2
 id live_chat_header
 id live_news_header
 id location_header_title
+id login_button
 id logo
 id m3_side_sheet
 id map_1
@@ -3510,7 +3519,6 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
-id medical_service_header
 id message
 id middle
 id mini
@@ -3603,6 +3611,21 @@ id open_search_view_search_prefix
 id open_search_view_status_bar_spacer
 id open_search_view_toolbar
 id open_search_view_toolbar_container
+id opt2
+id opt3
+id opt4
+id opt5
+id opt6
+id opt7
+id opt8
+id option1
+id option2
+id option3
+id option4
+id option5
+id option6
+id option7
+id option8
 id org_label_1
 id org_label_2
 id org_label_3
@@ -3640,6 +3663,7 @@ id rectangle_52
 id rectangle_53
 id rectangle_55
 id rectangles
+id relativeLayout
 id report_drawn
 id reverseSawtooth
 id right
@@ -3671,8 +3695,6 @@ id search_src_text
 id search_voice_btn
 id select_blood_type
 id select_dialog_listview
-id select_food_type
-id select_medical_supplies
 id select_organization
 id select_type
 id selected
@@ -3710,9 +3732,12 @@ id snap
 id snapMargins
 id solid_chevron_right_md
 id solid_chevron_right_md2
+id solid_chevron_right_md3
 id solid_chevron_right_md4
 id solid_chevron_right_md5
 id solid_chevron_right_md6
+id solid_chevron_right_md7
+id solid_chevron_right_md8
 id south
 id spacer
 id special_effects_controller_view_tag
@@ -3736,6 +3761,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id success_button
 id supportScrollUp
 id support_heading
 id support_text
@@ -3755,12 +3781,15 @@ id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
 id text
 id text2
+id text21
 id text22
 id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3787,7 +3816,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id type_other_supplies__optional_
 id type_quantity
 id unchecked
 id uniform
@@ -3799,6 +3827,8 @@ id user_chat_text_1
 id user_chat_text_2
 id vector
 id vertical_only
+id view
+id view2
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3807,10 +3837,8 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
-id water_service_header
 id welcome_button
 id welcome_screen_progress
-id welcome_to_asklepios_ui_kit
 id west
 id withText
 id with_icon
@@ -3934,6 +3962,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_set_card
 layout blood_donate_confirm
 layout blood_donate_service
 layout chatbot
@@ -3968,6 +3997,7 @@ layout home
 layout livechat
 layout location
 layout login
+layout logout_confirm
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -4021,6 +4051,7 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout mtrl_search_bar
 layout mtrl_search_view
+layout my_account
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -4030,8 +4061,8 @@ layout notification_template_part_time
 layout notifications
 layout password_sent
 layout profile_set_up
-layout profile_set_up2
-layout profile_setup_2
+layout profile_set_user
+layout profile_setup_org
 layout profilesuccesfull
 layout searchbar
 layout select_dialog_item_material
@@ -4119,6 +4150,10 @@ string chat_msg_user1
 string chat_msg_user2
 string chatsupport
 string clear_text_end_icon_content_description
+string confirm_logout
+string continue1
+string continue2
+string continue3
 string donate_heading1
 string donate_heading2
 string donation_services
@@ -4128,6 +4163,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string general_header
 string hide_bottom_view_on_scroll_behavior
 string home
 string icon_content_description
@@ -4236,6 +4272,7 @@ string mtrl_switch_track_path
 string mtrl_timepicker_cancel
 string mtrl_timepicker_confirm
 string my_account
+string my_account_header
 string notification
 string notification_opt1
 string notification_opt2
@@ -4246,12 +4283,23 @@ string notification_opt6
 string notification_opt7
 string notification_opt8
 string notification_opt9
+string option1_text
+string option2_text
+string option3_text
+string option4_text
+string option5_text
+string option6_text
+string option7_text
+string option8_text
 string or
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string preferences_header
+string profile_setup_org
+string profile_setup_user
 string search
 string search_menu_title
 string searchbar_scrolling_view_behavior
@@ -4271,7 +4319,9 @@ string services
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string sign_up
+string signintext
 string signmsg
+string signuptext
 string skip
 string sms
 string status_bar_notification_info_overflow

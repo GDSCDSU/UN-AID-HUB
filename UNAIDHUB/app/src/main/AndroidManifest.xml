@@ -13,6 +13,21 @@
         android:theme="@style/Theme.UNAIDHUB"
         tools:targetApi="31">
         <activity
+            android:name=".SetCard"
+            android:exported="false" />
+        <activity
+            android:name=".Credit_Card"
+            android:exported="false" />
+        <activity
+            android:name=".OrgSetup"
+            android:exported="false" />
+        <activity
+            android:name=".MyAccount"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
             android:name=".MyAccounts"
             android:exported="false" />
         <activity

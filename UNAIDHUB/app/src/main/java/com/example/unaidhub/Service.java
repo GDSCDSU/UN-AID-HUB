@@ -11,6 +11,8 @@ public class Service extends AppCompatActivity {
     private View Home;
     private View Services;
     private View Donations;
+    private View MyAccount;
+
 
 
     @Override
@@ -21,6 +23,7 @@ public class Service extends AppCompatActivity {
         Home = findViewById(R.id.home_btn);
         Services = findViewById(R.id.service_btn);
         Donations = findViewById(R.id.donations);
+        MyAccount = findViewById(R.id.my_account);
 
 
 
@@ -44,6 +47,13 @@ public class Service extends AppCompatActivity {
                 setDonations();
             }
         });
+
+        MyAccount.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                setMyAccount();
+            }
+        });
     }
 
     public void setHome(){
@@ -58,6 +68,11 @@ public class Service extends AppCompatActivity {
 
     public void setDonations(){
         Intent intent = new Intent(this, Donation.class);
+        startActivity(intent);
+    }
+
+    public void setMyAccount(){
+        Intent intent = new Intent(this, MyAccount.class);
         startActivity(intent);
     }
 

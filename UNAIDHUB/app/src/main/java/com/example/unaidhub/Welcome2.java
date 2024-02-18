@@ -39,7 +39,7 @@ public class Welcome2 extends AppCompatActivity {
     }
 
     public void skip_function() {
-        Intent intent = new Intent(this, Signup.class);
+        Intent intent = new Intent(this, Login.class);
         startActivity(intent);
     }
 

@@ -11,7 +11,7 @@ public class Home extends AppCompatActivity {
     private View Home;
     private View Services;
     private View Donations;
-
+    private View MyAccount;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +21,7 @@ public class Home extends AppCompatActivity {
         Home = findViewById(R.id.home_btn);
         Services = findViewById(R.id.service_btn);
         Donations = findViewById(R.id.donations);
+        MyAccount = findViewById(R.id.my_account);
 
 
 
@@ -45,6 +46,13 @@ public class Home extends AppCompatActivity {
             }
         });
 
+        MyAccount.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                setMyAccount();
+            }
+        });
+
 
     }
 
@@ -59,6 +67,11 @@ public class Home extends AppCompatActivity {
     }
 
     public void setDonations(){
+        Intent intent = new Intent(this, Donation.class);
+        startActivity(intent);
+    }
+
+    public void setMyAccount(){
         Intent intent = new Intent(this, Donation.class);
         startActivity(intent);
     }
