@@ -3184,8 +3184,8 @@ id BOTTOM_START
 id Blood_Donation_Heading
 id Blood_Service_Heading
 id CTRL
+id Donation_btn
 id Donation_header
-id Donations
 id FUNCTION
 id META
 id NO_DEBUG
@@ -3238,7 +3238,6 @@ id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
 id account_box
-id accountbox
 id actionDown
 id actionDownUp
 id actionUp
@@ -3416,7 +3415,6 @@ id gone
 id google_btn
 id graph
 id graph_wrap
-id group_33840
 id group_33845
 id group_33854
 id group_33876
@@ -3441,6 +3439,7 @@ id header_title
 id hideable
 id home
 id homeAsUp
+id home_btn
 id home_header
 id home_page
 id honorRequest
@@ -3565,12 +3564,10 @@ id news1
 id news2
 id news3
 id news4
-id news5
 id news_img_1
 id news_img_2
 id news_img_3
 id news_img_4
-id news_img_5
 id next_btn_welcome2
 id next_btn_welcome3
 id next_btn_welcome4
@@ -3636,7 +3633,6 @@ id progress_horizontal
 id radio
 id ratio
 id rectangle_1
-id rectangle_10
 id rectangle_26
 id rectangle_29
 id rectangle_4
@@ -3681,6 +3677,7 @@ id select_organization
 id select_type
 id selected
 id selection_type
+id service_btn
 id service_image_1
 id service_image_2
 id service_image_3

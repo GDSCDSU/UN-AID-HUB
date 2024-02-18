@@ -17,10 +17,15 @@
         />
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:src="@drawable/logo1"
-        android:layout_marginTop="40dp"/>
+        android:id="@+id/imageView"
+        android:layout_width="374dp"
+        android:layout_height="76dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="23dp"
+        android:src="@drawable/logo1" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -71,29 +76,37 @@
 
     <EditText
 
+        android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="       ************* "
-        android:background="@drawable/rounded_corner"
-        android:padding="17dp"
         android:layout_marginTop="400dp"
-        android:inputType="textPassword"/>
+        android:background="@drawable/rounded_corner"
+        android:hint="       ************* "
+        android:inputType="textPassword"
+        android:padding="17dp" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="41dp"
+        android:layout_alignTop="@+id/editText"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="-6dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/monotone_gender_male" />
+
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/monotone_gender_male"
-        android:layout_marginTop="415dp"
-        android:layout_marginLeft="20dp"/>
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/solid_eye1"
-        android:layout_marginTop="415dp"
-        android:layout_marginLeft="360dp"/>
-
-
-
+        android:layout_alignTop="@+id/editText"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_marginLeft="360dp"
+        android:layout_marginTop="-9dp"
+        android:layout_marginBottom="-2dp"
+        android:src="@drawable/solid_eye1" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -110,70 +123,87 @@
 
     <EditText
 
+        android:id="@+id/editText2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="         ************* "
-        android:background="@drawable/rounded_corner"
         android:layout_marginTop="500dp"
-        android:inputType="textPassword"
-        android:padding="10dp"
-        />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/monotone_gender_male"
-        android:layout_marginTop="509dp"
-        android:layout_marginLeft="20dp"/>
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/solid_eye1"
-        android:layout_marginTop="509dp"
-        android:layout_marginLeft="360dp"/>
-
-    <EditText
-
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="ERROR: pasword donot match"
-       android:textColor="@color/red"
         android:background="@drawable/rounded_corner"
-        android:padding="6dp"
-        android:layout_marginTop="550dp"
-        android:gravity="center"
-        android:drawableLeft="@drawable/solid_warning"
-        android:backgroundTint="@color/reddish"
-        />
+        android:hint="         ************* "
+        android:inputType="textPassword"
+        android:padding="10dp" />
 
-
-    <Button
-        android:id="@+id/Sign_up_btn"
-        android:layout_width="match_parent"
+    <ImageView
+        android:layout_width="41dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="590dp"
-        android:text="Sign In"
+        android:layout_alignTop="@+id/editText2"
+        android:layout_alignBottom="@+id/editText2"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="-1dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/monotone_gender_male" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/editText2"
+        android:layout_alignBottom="@+id/editText2"
+        android:layout_marginLeft="360dp"
+        android:layout_marginTop="-12dp"
+        android:layout_marginBottom="-14dp"
+        android:src="@drawable/solid_eye1" />
+
+    <View
+        android:id="@+id/Sign_in_btn"
+        android:layout_width="288dp"
+        android:layout_height="55dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="57dp"
+        android:layout_marginTop="470dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="184dp"
+        android:background="@drawable/button"
         android:textColor="@color/white"
-        android:textSize="20dp"
-        android:background="@drawable/round_button"
+        android:textSize="20dp" />
 
-        />
-
-
+    <TextView
+        android:id="@+id/btn_text"
+        android:layout_width="186.6dp"
+        android:layout_height="24.6dp"
+        android:layout_alignStart="@+id/Sign_in_btn"
+        android:layout_alignTop="@+id/Sign_in_btn"
+        android:layout_alignEnd="@+id/Sign_in_btn"
+        android:layout_marginStart="111dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="0dp"
+        android:text="@string/signuptext"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
 
     <TextView
         android:id="@+id/sign_in_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="87dp"
         android:layout_marginLeft="110dp"
         android:layout_marginTop="635dp"
+
+        android:layout_marginEnd="82dp"
+        android:layout_marginBottom="133dp"
         android:fontFamily="sans-serif-medium"
         android:text="@string/SignIn1"
         android:textColor="@color/silver"
-        android:textSize="15sp"
-
-        />
+        android:textSize="15sp" />
 
 
 </RelativeLayout>

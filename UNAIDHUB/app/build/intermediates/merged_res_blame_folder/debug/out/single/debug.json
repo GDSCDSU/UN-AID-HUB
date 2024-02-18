@@ -32,12 +32,12 @@
         "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-33:\\drawable\\cross.png"
     },
     {
-        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\drawable_newsimg2.png.flat",
-        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-33:\\drawable\\newsimg2.png"
-    },
-    {
         "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\layout_searchbar.xml.flat",
         "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-33:\\layout\\searchbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\drawable_newsimg2.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-33:\\drawable\\newsimg2.png"
     },
     {
         "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\drawable_donte_now.xml.flat",
@@ -54,10 +54,6 @@
     {
         "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\drawable_monotone_add.xml.flat",
         "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-33:\\drawable\\monotone_add.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-31:/layout_home.xml.flat",
-        "source": "com.example.unaidhub.app-main-33:/layout/home.xml"
     },
     {
         "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\drawable_frame1.png.flat",
@@ -178,6 +174,10 @@
     {
         "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\drawable_monotoneadd43x.png.flat",
         "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-33:\\drawable\\monotoneadd43x.png"
+    },
+    {
+        "merged": "com.example.unaidhub.app-merged_res-31:/layout_donations.xml.flat",
+        "source": "com.example.unaidhub.app-main-33:/layout/donations.xml"
     },
     {
         "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-31:\\layout_blood_donate_service.xml.flat",

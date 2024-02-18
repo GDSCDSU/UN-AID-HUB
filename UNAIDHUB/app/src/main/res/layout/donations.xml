@@ -11,7 +11,7 @@
     <View
         android:id="@+id/rectangle_1"
         android:layout_width="match_parent"
-        android:layout_height="240dp"
+        android:layout_height="209dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
@@ -56,13 +56,14 @@
         android:textAppearance="@style/text"
         android:translationY="-3.28sp" />
 
+
     <View
         android:id="@+id/vector"
         android:layout_width="20.15dp"
         android:layout_height="20.15dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginLeft="274dp"
+        android:layout_marginLeft="314dp"
         android:layout_marginTop="29dp"
         android:background="@drawable/vector" />
 
@@ -72,17 +73,20 @@
         android:layout_height="48dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="299dp"
-        android:layout_marginTop="13dp"
+        android:layout_marginStart="341dp"
+        android:layout_marginTop="12dp"
         android:background="@drawable/group_33876" />
 
     <View
         android:id="@+id/group_33877"
-        android:layout_width="320dp"
-        android:layout_height="98dp"
+        android:layout_width="328dp"
+        android:layout_height="87dp"
         android:layout_below="@+id/rectangle_1"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="42dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="34dp"
         android:background="@drawable/rectangle_5" />
 
 
@@ -92,7 +96,7 @@
         android:layout_height="64.6dp"
         android:layout_alignTop="@+id/group_33877"
         android:layout_marginStart="51dp"
-        android:layout_marginTop="21dp"
+        android:layout_marginTop="11dp"
         android:text="@string/Org1"
         android:textColor="@color/black"
         android:textSize="16sp"
@@ -102,134 +106,178 @@
         android:id="@+id/solid_chevron_right_md"
         android:layout_width="27.16dp"
         android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/group_33877"
         android:layout_alignEnd="@+id/group_33877"
         android:layout_marginStart="299.27dp"
-        android:layout_marginTop="289dp"
-        android:layout_marginEnd="14dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="20dp"
         android:background="@drawable/solid_chevron_right" />
 
 
-    <View   android:id="@+id/group_33885"
-        android:background="@drawable/rectangle_5"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="360dp"
-        android:layout_width="320dp"
-        android:layout_height="98dp" />
+    <View
+        android:id="@+id/group_33885"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_below="@+id/group_33877"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginEnd="33dp"
+        android:background="@drawable/rectangle_5" />
 
 
-
-    <TextView android:id="@+id/org_label_2"
-        android:textStyle="bold"
-        android:textSize="16sp"
-        android:textColor="@color/black"
+    <TextView
+        android:id="@+id/org_label_2"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/group_33885"
+        android:layout_alignBottom="@+id/group_33885"
         android:layout_marginLeft="51dp"
-        android:layout_marginTop="379dp"
-        android:layout_width="242.6dp"
-        android:layout_height="64.6dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginBottom="4dp"
         android:text="@string/Org2"
-        />
-
-
-    <View   android:id="@+id/solid_chevron_right_md2"
-        android:background="@drawable/solid_chevron_right"
-        android:layout_marginStart="299.27dp"
-        android:layout_marginTop="395dp"
-        android:layout_width="27.16dp"
-        android:layout_height="27.16dp" />
-
-
-
-
-    <View   android:id="@+id/group_33886"
-        android:background="@drawable/rectangle_5"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="466dp"
-        android:layout_width="320dp"
-        android:layout_height="98dp" />
-
-
-
-    <TextView android:id="@+id/org_label_3"
-        android:textStyle="bold"
-        android:textSize="16sp"
         android:textColor="@color/black"
-        android:layout_marginLeft="50dp"
-        android:layout_marginTop="505dp"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/solid_chevron_right_md2"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/group_33885"
+        android:layout_alignEnd="@+id/group_33885"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="17dp"
+        android:background="@drawable/solid_chevron_right" />
+
+
+    <View
+        android:id="@+id/group_33886"
+        android:layout_width="328dp"
+        android:layout_height="86dp"
+        android:layout_below="@+id/group_33885"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="35dp"
+        android:background="@drawable/rectangle_5" />
+
+    <TextView
+        android:id="@+id/org_label_3"
         android:layout_width="242.6dp"
         android:layout_height="24.6dp"
+        android:layout_alignStart="@+id/group_33886"
+        android:layout_alignTop="@+id/group_33886"
+        android:layout_alignEnd="@+id/group_33886"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="31dp"
+        android:layout_marginEnd="54dp"
         android:text="@string/Org3"
-        />
-
-
-
-    <View   android:id="@+id/solid_chevron_right_md4"
-        android:background="@drawable/solid_chevron_right"
-        android:layout_marginStart="299.27dp"
-        android:layout_marginTop="501dp"
-        android:layout_width="27.16dp"
-        android:layout_height="27.16dp" />
-
-
-    <View   android:id="@+id/group_33887"
-        android:background="@drawable/rectangle_5"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="572dp"
-        android:layout_width="320dp"
-        android:layout_height="98dp" />
-
-
-
-    <TextView android:id="@+id/org_label_4"
-        android:textStyle="bold"
-        android:textSize="16sp"
         android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/solid_chevron_right_md4"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/group_33886"
+        android:layout_alignEnd="@+id/group_33886"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="18dp"
+        android:background="@drawable/solid_chevron_right" />
+
+
+    <View
+        android:id="@+id/group_33887"
+        android:layout_width="331dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/group_33886"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="35dp"
+        android:background="@drawable/rectangle_5" />
+
+    <TextView
+        android:id="@+id/org_label_4"
+        android:layout_width="224dp"
+        android:layout_height="40dp"
+        android:layout_alignTop="@+id/group_33887"
+        android:layout_alignEnd="@+id/group_33887"
+        android:layout_alignBottom="@+id/group_33887"
         android:layout_marginLeft="51dp"
-        android:layout_marginTop="601dp"
-        android:layout_width="218.6dp"
-        android:layout_height="44.6dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="87dp"
+        android:layout_marginBottom="18dp"
         android:text="@string/Org4"
-        />
-
-
-
-    <View   android:id="@+id/solid_chevron_right_md5"
-        android:background="@drawable/solid_chevron_right"
-        android:layout_marginStart="299.27dp"
-        android:layout_marginTop="607dp"
-        android:layout_width="27.16dp"
-        android:layout_height="27.16dp" />
-
-
-    <View   android:id="@+id/group_33888"
-        android:background="@drawable/rectangle_5"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="678dp"
-        android:layout_width="320dp"
-        android:layout_height="98dp" />
-
-
-
-
-
-    <TextView android:id="@+id/org_label_5"
-        android:textStyle="bold"
-        android:textSize="16sp"
         android:textColor="@color/black"
-        android:layout_marginLeft="51dp"
-        android:layout_marginTop="687dp"
-        android:layout_width="235.6dp"
-        android:layout_height="64.6dp"
-        android:text="@string/Org5"
-        />
+        android:textSize="16sp"
+        android:textStyle="bold" />
 
-
-    <View   android:id="@+id/solid_chevron_right_md6"
-        android:background="@drawable/solid_chevron_right"
-        android:layout_marginStart="299.27dp"
-        android:layout_marginTop="713dp"
+    <View
+        android:id="@+id/solid_chevron_right_md5"
         android:layout_width="27.16dp"
-        android:layout_height="27.16dp" />
+        android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/group_33887"
+        android:layout_alignEnd="@+id/group_33887"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="19dp"
+        android:background="@drawable/solid_chevron_right" />
 
+
+    <View
+        android:id="@+id/group_33888"
+        android:layout_width="351dp"
+        android:layout_height="79dp"
+        android:layout_below="@+id/group_33887"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/rectangle_5" />
+
+    <TextView
+        android:id="@+id/org_label_5"
+        android:layout_width="230dp"
+        android:layout_height="60dp"
+        android:layout_alignTop="@+id/group_33888"
+        android:layout_alignBottom="@+id/group_33888"
+        android:layout_marginLeft="51dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/Org5"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+    <!-- Auto layout, variables, and unit scale are not yet supported -->
+
+
+    <!-- Auto layout, variables, and unit scale are not yet supported -->
+
+    <View
+        android:id="@+id/solid_chevron_right_md6"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/group_33888"
+        android:layout_alignEnd="@+id/group_33888"
+        android:layout_alignBottom="@+id/group_33888"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="27dp"
+        android:background="@drawable/solid_chevron_right" />
 
     <View
         android:id="@+id/home_btn"
@@ -237,8 +285,8 @@
         android:layout_height="26.08dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginLeft="30.5dp"
-        android:layout_marginTop="795dp"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="687dp"
         android:background="@drawable/home" />
 
     <TextView
@@ -247,8 +295,8 @@
         android:layout_height="13dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginLeft="32dp"
-        android:layout_marginTop="826dp"
+        android:layout_marginLeft="57dp"
+        android:layout_marginTop="725dp"
         android:gravity="top"
         android:text="@string/home"
         android:textAppearance="@style/home" />
@@ -259,105 +307,78 @@
         android:layout_height="26.08dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:layout_marginLeft="122dp"
-        android:layout_marginTop="795dp"
-        android:background="@drawable/services"/>
+        android:layout_marginLeft="134dp"
+        android:layout_marginTop="686dp"
+        android:background="@drawable/services" />
 
     <TextView
         android:id="@+id/services"
         android:layout_width="41dp"
         android:layout_height="13dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="116dp"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="826.84dp"
-        android:text="@string/services"
-        android:textAppearance="@style/services"
+        android:layout_marginLeft="133dp"
+        android:layout_marginTop="726dp"
         android:gravity="top"
-        />
+        android:text="@string/services"
+        android:textAppearance="@style/services" />
 
-    <!-- Auto layout, variables, and unit scale are not yet supported -->
     <View
-        android:id="@+id/Donations_btn"
+        android:id="@+id/Donation_btn"
         android:layout_width="28dp"
         android:layout_height="28dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="209dp"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="795dp"
-        android:background="@drawable/donations"
-        />
+        android:layout_marginLeft="215dp"
+        android:layout_marginTop="685dp"
+        android:background="@drawable/donations" />
 
     <TextView
         android:id="@+id/donations"
         android:layout_width="48dp"
         android:layout_height="13dp"
         android:layout_alignParentLeft="true"
-        android:layout_marginLeft="198dp"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="826.84dp"
-        android:text="@string/donations"
-        android:textAppearance="@style/donations"
+        android:layout_marginLeft="203dp"
+        android:layout_marginTop="726dp"
         android:gravity="top"
-        />
+        android:text="@string/donations"
+        android:textAppearance="@style/donations" />
 
     <View
-        android:id="@+id/accountbox"
+        android:id="@+id/account_box"
         android:layout_width="30dp"
         android:layout_height="29.08dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="793dp"
-        android:layout_marginRight="48dp"
+        android:layout_marginTop="683dp"
+        android:layout_marginRight="67dp"
         android:background="@drawable/account" />
 
-
-    <!-- Auto layout, variables, and unit scale are not yet supported -->
     <TextView
         android:id="@+id/my_account"
         android:layout_width="57dp"
         android:layout_height="13dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="831dp"
-        android:layout_marginEnd="33dp"
+        android:layout_marginTop="725dp"
+        android:layout_marginEnd="55dp"
         android:gravity="top"
         android:text="@string/my_account"
         android:textAppearance="@style/home" />
 
-    <RelativeLayout
-        android:id="@+id/navigation"
-        android:layout_width="360dp"
-        android:layout_height="22dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_marginLeft="11dp"
-        android:layout_marginTop="850dp">
-
-        <View
-            android:id="@+id/rectangle_4"
-            android:layout_width="125dp"
-            android:layout_height="5dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentBottom="true"
-            android:layout_marginLeft="111dp"
-            android:layout_marginTop="7dp"
-            android:layout_marginRight="124dp"
-            android:layout_marginBottom="10dp"
-            android:background="@drawable/navrectangle" />
-
-    </RelativeLayout>
 
     <View
         android:id="@+id/donate_now"
-        android:background="@drawable/donte_now"
-        android:layout_marginStart="256dp"
-        android:layout_marginTop="635dp"
-        android:layout_width="86dp"
-        android:layout_height="86dp"
-         />
+        android:layout_width="96dp"
+        android:layout_height="91dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="288dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="146dp"
+        android:background="@drawable/donte_now" />
 
 
 </RelativeLayout>

@@ -3183,8 +3183,8 @@ int id BOTTOM_START 0x7f080002
 int id Blood_Donation_Heading 0x7f080003
 int id Blood_Service_Heading 0x7f080004
 int id CTRL 0x7f080005
+int id Donation_btn 0x7f080286
 int id Donation_header 0x7f080006
-int id Donations 0x7f080007
 int id FUNCTION 0x7f080008
 int id META 0x7f080009
 int id NO_DEBUG 0x7f08000a
@@ -3237,7 +3237,6 @@ int id accessibility_custom_action_7 0x7f080036
 int id accessibility_custom_action_8 0x7f080037
 int id accessibility_custom_action_9 0x7f080038
 int id account_box 0x7f080039
-int id accountbox 0x7f08003a
 int id actionDown 0x7f08003b
 int id actionDownUp 0x7f08003c
 int id actionUp 0x7f08003d
@@ -3415,7 +3414,6 @@ int id gone 0x7f0800e6
 int id google_btn 0x7f080280
 int id graph 0x7f0800e7
 int id graph_wrap 0x7f0800e8
-int id group_33840 0x7f0800e9
 int id group_33845 0x7f0800ea
 int id group_33854 0x7f0800eb
 int id group_33876 0x7f0800ec
@@ -3440,6 +3438,7 @@ int id header_title 0x7f0800fe
 int id hideable 0x7f0800ff
 int id home 0x7f080100
 int id homeAsUp 0x7f080101
+int id home_btn 0x7f080289
 int id home_header 0x7f080102
 int id home_page 0x7f080103
 int id honorRequest 0x7f080104
@@ -3564,12 +3563,10 @@ int id news1 0x7f080179
 int id news2 0x7f08017a
 int id news3 0x7f08017b
 int id news4 0x7f08017c
-int id news5 0x7f08017d
 int id news_img_1 0x7f08017e
 int id news_img_2 0x7f08017f
 int id news_img_3 0x7f080180
 int id news_img_4 0x7f080181
-int id news_img_5 0x7f080182
 int id next_btn_welcome2 0x7f080278
 int id next_btn_welcome3 0x7f080279
 int id next_btn_welcome4 0x7f08027a
@@ -3635,7 +3632,6 @@ int id progress_horizontal 0x7f0801bc
 int id radio 0x7f0801bd
 int id ratio 0x7f0801be
 int id rectangle_1 0x7f0801bf
-int id rectangle_10 0x7f0801c0
 int id rectangle_26 0x7f0801c1
 int id rectangle_29 0x7f0801c2
 int id rectangle_4 0x7f0801c3
@@ -3680,6 +3676,7 @@ int id select_organization 0x7f0801e9
 int id select_type 0x7f0801ea
 int id selected 0x7f0801eb
 int id selection_type 0x7f0801ec
+int id service_btn 0x7f08028a
 int id service_image_1 0x7f0801ed
 int id service_image_2 0x7f0801ee
 int id service_image_3 0x7f0801ef

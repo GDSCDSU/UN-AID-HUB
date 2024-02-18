@@ -88,6 +88,26 @@
     <string name="donate_heading1">Donate Now!</string>
     <string name="donate_heading2">Donation Done!</string>
 
+    <string name="signintext">Sign in</string>
+    <string name="signuptext">Sign in</string>
+
+    <string name="profile_setup_user">User</string>
+    <string name="profile_setup_org">Organization</string>
+
+    <string name="my_account_header">My Account</string>
+    <string name="general_header">General</string>
+    <string name="option1_text">Edit Profile</string>
+    <string name="option2_text">Change Password</string>
+    <string name="option3_text">Notifications</string>
+    <string name="option4_text">Security</string>
+    <string name="option5_text">Language</string>
+    <string name="preferences_header">Preferences</string>
+    <string name="option6_text">Legal Policies</string>
+    <string name="option7_text">Help and support</string>
+    <string name="option8_text">Logout</string>
+
+    <string name="confirm_logout">Are you sure you want to logout?</string>
+
 
     <string name="or">"_____________________ OR ______________________"</string>
     <string name="Terms">By continuing,you agree to the <u>Terms of Service</u> and acknowledge our <u>Privacy Policy</u></string>

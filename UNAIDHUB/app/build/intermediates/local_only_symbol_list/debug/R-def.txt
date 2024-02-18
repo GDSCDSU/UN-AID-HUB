@@ -115,8 +115,8 @@ drawable welcomeimg3
 drawable welcomeimg4
 id Blood_Donation_Heading
 id Blood_Service_Heading
+id Donation_btn
 id Donation_header
-id Donations
 id Sign_in
 id Sign_in_btn
 id Sign_up_btn
@@ -125,7 +125,6 @@ id _bg__frame
 id _bg__frame2
 id _bg__frame3
 id account_box
-id accountbox
 id back_btn
 id bot_chat_1
 id bot_chat_2
@@ -148,7 +147,6 @@ id fb_btn
 id food_service_header
 id frame
 id google_btn
-id group_33840
 id group_33845
 id group_33854
 id group_33876
@@ -167,6 +165,7 @@ id group_339081
 id group_60
 id header_1
 id home
+id home_btn
 id home_header
 id home_page
 id icon1
@@ -193,12 +192,10 @@ id news1
 id news2
 id news3
 id news4
-id news5
 id news_img_1
 id news_img_2
 id news_img_3
 id news_img_4
-id news_img_5
 id next_btn_welcome2
 id next_btn_welcome3
 id next_btn_welcome4
@@ -217,7 +214,6 @@ id org_label_5
 id password_box
 id personalize_your_health_with_intelligent_ai
 id rectangle_1
-id rectangle_10
 id rectangle_26
 id rectangle_29
 id rectangle_4
@@ -230,6 +226,7 @@ id select_food_type
 id select_medical_supplies
 id select_organization
 id select_type
+id service_btn
 id service_image_1
 id service_image_2
 id service_image_3

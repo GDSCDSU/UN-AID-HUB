@@ -28,6 +28,15 @@
         android:testOnly="true"
         android:theme="@style/Theme.UNAIDHUB" >
         <activity
+            android:name="com.example.unaidhub.MyAccounts"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.Donation"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.Service"
+            android:exported="false" />
+        <activity
             android:name="com.example.unaidhub.Home"
             android:exported="false" />
         <activity
