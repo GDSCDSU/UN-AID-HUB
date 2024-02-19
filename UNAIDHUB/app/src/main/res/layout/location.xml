@@ -44,15 +44,14 @@
 
     <ImageView
         android:id="@+id/map_1"
-        android:layout_width="247dp"
-        android:layout_height="240dp"
+        android:layout_width="350dp"
+        android:layout_height="281dp"
+        android:layout_below="@+id/rectangle_1"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="82dp"
-        android:layout_marginTop="64.5dp"
-        android:layout_marginEnd="82dp"
-        android:layout_marginBottom="307dp"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="21dp"
         android:contentDescription="map_1"
         android:src="@drawable/map" />
 
@@ -83,7 +82,7 @@
         android:background="@drawable/group_60" />
 
     <View
-        android:id="@+id/group_33845"
+        android:id="@+id/location_name"
         android:layout_width="289dp"
         android:layout_height="97dp"
         android:layout_alignBottom="@+id/rectangle_29"
@@ -99,8 +98,8 @@
         android:id="@+id/service_shelter"
         android:layout_width="175.6dp"
         android:layout_height="24.6dp"
-        android:layout_alignTop="@+id/group_33845"
-        android:layout_alignEnd="@+id/group_33845"
+        android:layout_alignTop="@+id/location_name"
+        android:layout_alignEnd="@+id/location_name"
         android:layout_marginLeft="81.37dp"
         android:layout_marginTop="42dp"
         android:layout_marginEnd="39dp"
@@ -113,7 +112,7 @@
         android:id="@+id/icon1"
         android:layout_width="38dp"
         android:layout_height="69dp"
-        android:layout_alignTop="@+id/group_33845"
+        android:layout_alignTop="@+id/location_name"
         android:layout_marginStart="29dp"
         android:layout_marginTop="17dp"
         android:layout_marginEnd="22dp"

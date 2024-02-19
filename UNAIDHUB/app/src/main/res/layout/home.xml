@@ -59,7 +59,7 @@
         android:translationY="-3.28sp" />
 
     <View
-        android:id="@+id/vector"
+        android:id="@+id/search_badge"
         android:layout_width="20.15dp"
         android:layout_height="20.15dp"
         android:layout_alignParentLeft="true"
@@ -69,7 +69,7 @@
         android:background="@drawable/vector" />
 
     <View
-        android:id="@+id/group_33876"
+        android:id="@+id/notification_icon"
         android:layout_width="48dp"
         android:layout_height="48dp"
         android:layout_alignParentLeft="true"

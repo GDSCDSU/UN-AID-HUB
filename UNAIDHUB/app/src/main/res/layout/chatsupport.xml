@@ -21,21 +21,21 @@
         <TextView
             android:id="@+id/support_heading"
 
-            android:layout_width="177.3dp"
-            android:layout_height="37.3dp"
+            android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/header_1"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
             android:layout_gravity="center_horizontal|center"
-            android:layout_marginStart="114dp"
+            android:layout_marginStart="78dp"
             android:layout_marginLeft="52dp"
-            android:layout_marginTop="0dp"
-            android:layout_marginEnd="119dp"
+            android:layout_marginEnd="66dp"
+            android:layout_marginBottom="21dp"
             android:gravity="center"
             android:text="@string/chatsupport"
             android:textColor="@color/black"
             android:textSize="13sp"
             android:textStyle="bold" />
-
 
         <View
             android:id="@+id/close_button"
@@ -52,16 +52,15 @@
 
         <TextView
             android:id="@+id/header_1"
-            android:layout_width="174dp"
-            android:layout_height="wrap_content"
+            android:layout_width="229dp"
+            android:layout_height="64dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginStart="82dp"
+            android:layout_marginStart="60dp"
             android:layout_marginLeft="0dp"
-            android:layout_marginTop="0dp"
-            android:layout_marginEnd="69dp"
-            android:layout_marginBottom="360dp"
+            android:layout_marginEnd="35dp"
+            android:layout_marginBottom="346dp"
             android:text="@string/Help"
             android:textColor="@color/black"
             android:textSize="20sp"
@@ -87,7 +86,7 @@
             android:textStyle="bold" />
 
         <View
-            android:id="@+id/button"
+            android:id="@+id/bot_chat_button"
             android:layout_width="295dp"
             android:layout_height="56dp"
             android:layout_alignParentStart="true"
@@ -104,10 +103,10 @@
             android:id="@+id/text"
             android:layout_width="155dp"
             android:layout_height="21dp"
-            android:layout_alignStart="@+id/button"
-            android:layout_alignTop="@+id/button"
-            android:layout_alignEnd="@+id/button"
-            android:layout_alignBottom="@+id/button"
+            android:layout_alignStart="@+id/bot_chat_button"
+            android:layout_alignTop="@+id/bot_chat_button"
+            android:layout_alignEnd="@+id/bot_chat_button"
+            android:layout_alignBottom="@+id/bot_chat_button"
             android:layout_marginStart="38dp"
             android:layout_marginLeft="0dp"
             android:layout_marginTop="17dp"
@@ -119,7 +118,7 @@
             android:textStyle="bold" />
 
         <View
-            android:id="@+id/button2"
+            android:id="@+id/live_chat_button2"
             android:layout_width="295dp"
             android:layout_height="56dp"
             android:layout_alignParentStart="true"
@@ -135,10 +134,10 @@
             android:id="@+id/text22"
             android:layout_width="184dp"
             android:layout_height="31dp"
-            android:layout_alignStart="@+id/button2"
-            android:layout_alignTop="@+id/button2"
-            android:layout_alignEnd="@+id/button2"
-            android:layout_alignBottom="@+id/button2"
+            android:layout_alignStart="@+id/live_chat_button2"
+            android:layout_alignTop="@+id/live_chat_button2"
+            android:layout_alignEnd="@+id/live_chat_button2"
+            android:layout_alignBottom="@+id/live_chat_button2"
             android:layout_marginStart="22dp"
             android:layout_marginLeft="0dp"
             android:layout_marginTop="14dp"

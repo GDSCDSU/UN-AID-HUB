@@ -3291,6 +3291,7 @@ id bestChoice
 id blocking
 id bot_chat_1
 id bot_chat_2
+id bot_chat_button
 id bottom
 id bounce
 id bounceBoth
@@ -3298,7 +3299,6 @@ id bounceEnd
 id bounceStart
 id btn_text
 id btn_text2
-id button
 id button2
 id buttonPanel
 id cache_measures
@@ -3423,7 +3423,6 @@ id google_btn
 id graph
 id graph_wrap
 id group_33844
-id group_33845
 id group_33854
 id group_33876
 id group_33877
@@ -3463,6 +3462,7 @@ id imageButton2
 id imageButton3
 id imageButton4
 id imageView
+id imageView2
 id image_1
 id immediateStop
 id included
@@ -3485,11 +3485,10 @@ id line3
 id linear
 id listMode
 id list_item
-id live_chat_1
-id live_chat_2
-id live_chat_header
+id live_chat_button2
 id live_news_header
 id location_header_title
+id location_name
 id login_button
 id logo
 id m3_side_sheet
@@ -3586,12 +3585,12 @@ id normal
 id north
 id notification_background
 id notification_header
+id notification_icon
 id notification_main_column
 id notification_main_column_container
 id off
 id on
 id onInterceptTouchReturnSwipe
-id online_status
 id online_status_1
 id online_status_2
 id online_status_3
@@ -3626,6 +3625,7 @@ id option5
 id option6
 id option7
 id option8
+id org1
 id org_label_1
 id org_label_2
 id org_label_3
@@ -3699,6 +3699,12 @@ id select_organization
 id select_type
 id selected
 id selection_type
+id send_button
+id service_1
+id service_2
+id service_3
+id service_4
+id service_5
 id service_btn
 id service_image_1
 id service_image_2
@@ -3790,6 +3796,7 @@ id textStart
 id textTop
 id textView
 id textView2
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3829,6 +3836,7 @@ id vector
 id vertical_only
 id view
 id view2
+id view3
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3962,7 +3970,6 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_set_card
 layout blood_donate_confirm
 layout blood_donate_service
 layout chatbot

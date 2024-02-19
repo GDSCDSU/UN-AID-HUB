@@ -21,17 +21,23 @@
         android:debuggable="true"
         android:extractNativeLibs="false"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.UNAIDHUB" >
         <activity
-            android:name="com.example.unaidhub.SetCard"
+            android:name="com.example.unaidhub.Location"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Credit_Card"
+            android:name="com.example.unaidhub.LiveChat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.BotChat"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.SetCard"
             android:exported="false" />
         <activity
             android:name="com.example.unaidhub.OrgSetup"
@@ -43,9 +49,6 @@
             android:name="com.example.unaidhub.Login"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.MyAccounts"
-            android:exported="false" />
-        <activity
             android:name="com.example.unaidhub.Donation"
             android:exported="false" />
         <activity
@@ -53,12 +56,6 @@
             android:exported="false" />
         <activity
             android:name="com.example.unaidhub.Home"
-            android:exported="false" />
-        <activity
-            android:name="com.example.unaidhub.Signup"
-            android:exported="false" />
-        <activity
-            android:name="com.example.unaidhub.Signin"
             android:exported="false" />
         <activity
             android:name="com.example.unaidhub.Welcome4"

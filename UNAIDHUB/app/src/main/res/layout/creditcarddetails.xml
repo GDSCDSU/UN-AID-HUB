@@ -16,18 +16,19 @@
         android:background="@drawable/bg_view"
         />
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/top_view"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="53dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
         android:text="Credit Card Details"
         android:textColor="@color/white"
-        android:fontFamily="sans-serif-medium"
         android:textSize="35dp"
-        android:textStyle="bold"
-        android:layout_marginTop="50dp"
-        android:gravity="center"
-        />
-
+        android:textStyle="bold" />
 
     <ImageButton
         android:id="@+id/imageButton3"

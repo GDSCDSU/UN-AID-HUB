@@ -4,7 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.PopupWindow;
+import android.widget.RelativeLayout;
 
 public class Home extends AppCompatActivity {
 
@@ -12,6 +15,15 @@ public class Home extends AppCompatActivity {
     private View Services;
     private View Donations;
     private View MyAccount;
+
+    private View Chat_bot;
+
+    private View Notification;
+
+    private PopupWindow popupWindow;
+
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,7 +33,9 @@ public class Home extends AppCompatActivity {
         Home = findViewById(R.id.home_btn);
         Services = findViewById(R.id.service_btn);
         Donations = findViewById(R.id.donations);
-        MyAccount = findViewById(R.id.my_account);
+        MyAccount = findViewById(R.id.account_box);
+        Chat_bot = findViewById(R.id.chat_bot);
+        Notification = findViewById(R.id.notification_icon);
 
 
 
@@ -53,6 +67,20 @@ public class Home extends AppCompatActivity {
             }
         });
 
+        Chat_bot.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                chatOptions(v);
+            }
+        });
+
+        Notification.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                notification_box(v);
+            }
+        });
+
 
     }
 
@@ -72,8 +100,106 @@ public class Home extends AppCompatActivity {
     }
 
     public void setMyAccount(){
-        Intent intent = new Intent(this, Donation.class);
+        Intent intent = new Intent(this, MyAccount.class);
         startActivity(intent);
     }
+
+    public void chatOptions(View anchorView){
+        // Inflate the popup_layout.xml to a view
+        LayoutInflater inflater = (LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);
+        View popupView = inflater.inflate(R.layout.chatsupport, null);
+
+        // Initialize a new instance of PopupWindow
+        popupWindow = new PopupWindow(
+                popupView,
+                RelativeLayout.LayoutParams.MATCH_PARENT,
+                RelativeLayout.LayoutParams.MATCH_PARENT
+        );
+
+        // Set an elevation value for the popup window
+        popupWindow.setElevation(20);
+
+        popupWindow.setOnDismissListener(new PopupWindow.OnDismissListener() {
+            @Override
+            public void onDismiss() {
+                popupWindow.dismiss();
+            }
+        });
+
+        View bot_chat = popupView.findViewById(R.id.bot_chat_button);
+        bot_chat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                botChat();
+            }
+        });
+
+        View live_chat = popupView.findViewById(R.id.live_chat_button2);
+        live_chat.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                liveChat();
+            }
+        });
+
+        View dismiss = popupView.findViewById(R.id.close_button);
+        dismiss.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                popupWindow.dismiss();
+            }
+        });
+
+
+        // Show the popup window
+        popupWindow.showAsDropDown(anchorView);
+    };
+
+    public void botChat(){
+        Intent intent = new Intent(this, BotChat.class);
+        startActivity(intent);
+    }
+
+    public void liveChat(){
+        Intent intent = new Intent(this, LiveChat.class);
+        startActivity(intent);
+    }
+
+
+    public void notification_box(View anchorView){
+        // Inflate the popup_layout.xml to a view
+        LayoutInflater inflater = (LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);
+        View popupView = inflater.inflate(R.layout.notifications, null);
+
+        // Initialize a new instance of PopupWindow
+        popupWindow = new PopupWindow(
+                popupView,
+                RelativeLayout.LayoutParams.MATCH_PARENT,
+                RelativeLayout.LayoutParams.MATCH_PARENT
+        );
+
+        // Set an elevation value for the popup window
+        popupWindow.setElevation(20);
+
+        popupWindow.setOnDismissListener(new PopupWindow.OnDismissListener() {
+            @Override
+            public void onDismiss() {
+                popupWindow.dismiss();
+            }
+        });
+
+
+        View dismiss = popupView.findViewById(R.id.close_button);
+        dismiss.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                popupWindow.dismiss();
+            }
+        });
+
+
+        // Show the popup window
+        popupWindow.showAsDropDown(anchorView);
+    };
 
 }

@@ -3290,6 +3290,7 @@ int id bestChoice 0x7f080067
 int id blocking 0x7f080068
 int id bot_chat_1 0x7f080069
 int id bot_chat_2 0x7f08006a
+int id bot_chat_button 0x7f0802b0
 int id bottom 0x7f08006b
 int id bounce 0x7f08006c
 int id bounceBoth 0x7f08006d
@@ -3297,7 +3298,6 @@ int id bounceEnd 0x7f08006e
 int id bounceStart 0x7f08006f
 int id btn_text 0x7f080070
 int id btn_text2 0x7f08028e
-int id button 0x7f080071
 int id button2 0x7f080072
 int id buttonPanel 0x7f080073
 int id cache_measures 0x7f080074
@@ -3422,7 +3422,6 @@ int id google_btn 0x7f080280
 int id graph 0x7f0800e7
 int id graph_wrap 0x7f0800e8
 int id group_33844 0x7f080292
-int id group_33845 0x7f0800ea
 int id group_33854 0x7f0800eb
 int id group_33876 0x7f0800ec
 int id group_33877 0x7f0800ed
@@ -3462,6 +3461,7 @@ int id imageButton2 0x7f08010e
 int id imageButton3 0x7f08010f
 int id imageButton4 0x7f080110
 int id imageView 0x7f080293
+int id imageView2 0x7f0802ae
 int id image_1 0x7f080111
 int id immediateStop 0x7f080112
 int id included 0x7f080113
@@ -3484,11 +3484,10 @@ int id line3 0x7f080122
 int id linear 0x7f080123
 int id listMode 0x7f080124
 int id list_item 0x7f080125
-int id live_chat_1 0x7f080126
-int id live_chat_2 0x7f080127
-int id live_chat_header 0x7f080128
+int id live_chat_button2 0x7f0802b1
 int id live_news_header 0x7f080129
 int id location_header_title 0x7f08012a
+int id location_name 0x7f0802b2
 int id login_button 0x7f080294
 int id logo 0x7f08012b
 int id m3_side_sheet 0x7f08012c
@@ -3585,12 +3584,12 @@ int id normal 0x7f080186
 int id north 0x7f080187
 int id notification_background 0x7f080188
 int id notification_header 0x7f080189
+int id notification_icon 0x7f0802b3
 int id notification_main_column 0x7f08018a
 int id notification_main_column_container 0x7f08018b
 int id off 0x7f08018c
 int id on 0x7f08018d
 int id onInterceptTouchReturnSwipe 0x7f08018e
-int id online_status 0x7f08018f
 int id online_status_1 0x7f080190
 int id online_status_2 0x7f080191
 int id online_status_3 0x7f080192
@@ -3625,6 +3624,7 @@ int id option5 0x7f0802a0
 int id option6 0x7f0802a1
 int id option7 0x7f0802a2
 int id option8 0x7f0802a3
+int id org1 0x7f0802b4
 int id org_label_1 0x7f0801a3
 int id org_label_2 0x7f0801a4
 int id org_label_3 0x7f0801a5
@@ -3698,6 +3698,12 @@ int id select_organization 0x7f0801e9
 int id select_type 0x7f0801ea
 int id selected 0x7f0801eb
 int id selection_type 0x7f0801ec
+int id send_button 0x7f0802b5
+int id service_1 0x7f0802b6
+int id service_2 0x7f0802b7
+int id service_3 0x7f0802b8
+int id service_4 0x7f0802b9
+int id service_5 0x7f0802ba
 int id service_btn 0x7f08028a
 int id service_image_1 0x7f0801ed
 int id service_image_2 0x7f0801ee
@@ -3789,6 +3795,7 @@ int id textStart 0x7f08023b
 int id textTop 0x7f08023c
 int id textView 0x7f0802a9
 int id textView2 0x7f0802aa
+int id textView3 0x7f0802bb
 int id text_input_end_icon 0x7f08023d
 int id text_input_error_icon 0x7f08023e
 int id text_input_start_icon 0x7f08023f
@@ -3828,6 +3835,7 @@ int id vector 0x7f080261
 int id vertical_only 0x7f080262
 int id view 0x7f0802ab
 int id view2 0x7f0802ac
+int id view3 0x7f0802af
 int id view_offset_helper 0x7f080263
 int id view_transition 0x7f080264
 int id view_tree_lifecycle_owner 0x7f080265
@@ -3961,7 +3969,6 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
-int layout activity_set_card 0x7f0b0096
 int layout blood_donate_confirm 0x7f0b001d
 int layout blood_donate_service 0x7f0b001e
 int layout chatbot 0x7f0b001f

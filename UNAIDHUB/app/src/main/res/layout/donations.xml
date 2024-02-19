@@ -78,7 +78,7 @@
         android:background="@drawable/group_33876" />
 
     <View
-        android:id="@+id/group_33877"
+        android:id="@+id/org1"
         android:layout_width="328dp"
         android:layout_height="87dp"
         android:layout_below="@+id/rectangle_1"
@@ -94,7 +94,7 @@
         android:id="@+id/org_label_1"
         android:layout_width="225.6dp"
         android:layout_height="64.6dp"
-        android:layout_alignTop="@+id/group_33877"
+        android:layout_alignTop="@+id/org1"
         android:layout_marginStart="51dp"
         android:layout_marginTop="11dp"
         android:text="@string/Org1"
@@ -106,8 +106,8 @@
         android:id="@+id/solid_chevron_right_md"
         android:layout_width="27.16dp"
         android:layout_height="27.16dp"
-        android:layout_alignTop="@+id/group_33877"
-        android:layout_alignEnd="@+id/group_33877"
+        android:layout_alignTop="@+id/org1"
+        android:layout_alignEnd="@+id/org1"
         android:layout_marginStart="299.27dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="20dp"
@@ -118,7 +118,7 @@
         android:id="@+id/group_33885"
         android:layout_width="wrap_content"
         android:layout_height="85dp"
-        android:layout_below="@+id/group_33877"
+        android:layout_below="@+id/org1"
         android:layout_alignParentStart="true"
         android:layout_alignParentEnd="true"
         android:layout_marginStart="29dp"

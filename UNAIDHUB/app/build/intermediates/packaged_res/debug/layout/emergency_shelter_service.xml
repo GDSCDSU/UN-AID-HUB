@@ -6,16 +6,16 @@
 
 
     <RelativeLayout
-        android:layout_width="325dp"
-        android:layout_height="464dp"
+        android:layout_width="wrap_content"
+        android:layout_height="507dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="34dp"
         android:layout_marginTop="115dp"
-        android:layout_marginEnd="34dp"
-        android:layout_marginBottom="228dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="185dp"
         android:background="@drawable/popup">
 
 
@@ -107,9 +107,8 @@
             android:background="@drawable/monotone_add" />
 
 
-
         <View
-            android:id="@+id/button2"
+            android:id="@+id/send_button"
             android:layout_width="295dp"
             android:layout_height="56dp"
             android:layout_alignParentStart="true"
@@ -123,17 +122,17 @@
 
         <TextView
             android:id="@+id/btn_text"
-            android:layout_width="186.6dp"
-            android:layout_height="24.6dp"
-            android:layout_alignStart="@+id/button2"
-            android:layout_alignTop="@+id/button2"
-            android:layout_alignEnd="@+id/button2"
-            android:layout_alignBottom="@+id/button2"
-            android:layout_marginStart="75dp"
+            android:layout_width="138dp"
+            android:layout_height="23dp"
+            android:layout_alignStart="@+id/send_button"
+            android:layout_alignTop="@+id/send_button"
+            android:layout_alignEnd="@+id/send_button"
+            android:layout_alignBottom="@+id/send_button"
+            android:layout_marginStart="47dp"
             android:layout_marginLeft="0dp"
             android:layout_marginTop="15dp"
-            android:layout_marginEnd="35dp"
-            android:layout_marginBottom="17dp"
+            android:layout_marginEnd="23dp"
+            android:layout_marginBottom="18dp"
             android:text="@string/btn_Heading_3"
             android:textColor="@color/white"
             android:textSize="16sp"
@@ -152,15 +151,15 @@
 
         <TextView
             android:id="@+id/Blood_Donation_Heading"
-            android:layout_width="161dp"
-            android:layout_height="61dp"
+            android:layout_width="225dp"
+            android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
-            android:layout_marginStart="81dp"
+            android:layout_marginStart="57dp"
             android:layout_marginLeft="0dp"
             android:layout_marginTop="0dp"
-            android:layout_marginEnd="84dp"
-            android:text="@string/service2"
+            android:layout_marginEnd="42dp"
+            android:text="@string/service5"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="bold" />

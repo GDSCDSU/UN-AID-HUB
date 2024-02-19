@@ -21,29 +21,29 @@
 
         <View
             android:id="@+id/rectangle_55"
-            android:layout_width="wrap_content"
-            android:layout_height="65dp"
+            android:layout_width="305dp"
+            android:layout_height="78dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
-            android:layout_marginStart="20dp"
+            android:layout_marginStart="9dp"
             android:layout_marginTop="49.83dp"
-            android:layout_marginEnd="9dp"
-            android:layout_marginBottom="323dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="312dp"
             android:background="@drawable/rectangle_5" />
 
         <TextView
             android:id="@+id/select_organization"
             android:layout_width="wrap_content"
-            android:layout_height="34dp"
+            android:layout_height="41dp"
             android:layout_alignStart="@+id/rectangle_55"
             android:layout_alignEnd="@+id/rectangle_55"
             android:layout_alignBottom="@+id/rectangle_55"
             android:layout_marginStart="9dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="66.83dp"
-            android:layout_marginEnd="141dp"
-            android:layout_marginBottom="13dp"
+            android:layout_marginEnd="142dp"
+            android:layout_marginBottom="6dp"
             android:text="@string/notification_opt1"
             android:textColor="@color/black"
             android:textSize="14sp" />
@@ -64,8 +64,8 @@
 
         <View
             android:id="@+id/group_33906"
-            android:layout_width="298dp"
-            android:layout_height="73dp"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
             android:layout_alignParentStart="true"
             android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
@@ -95,14 +95,14 @@
 
         <View
             android:id="@+id/monotone_add2"
-            android:layout_width="37dp"
-            android:layout_height="30dp"
+            android:layout_width="36dp"
+            android:layout_height="41dp"
             android:layout_alignTop="@+id/group_33906"
             android:layout_alignEnd="@+id/group_33906"
             android:layout_alignBottom="@+id/group_33906"
             android:layout_marginStart="241dp"
-            android:layout_marginTop="25dp"
-            android:layout_marginEnd="19dp"
+            android:layout_marginTop="13dp"
+            android:layout_marginEnd="20dp"
             android:layout_marginBottom="11dp"
             android:background="@drawable/monotone_add" />
 
@@ -148,7 +148,7 @@
             android:background="@drawable/monotone_add" />
 
         <View
-            android:id="@+id/button2"
+            android:id="@+id/send_button"
             android:layout_width="295dp"
             android:layout_height="56dp"
             android:layout_alignParentStart="true"
@@ -164,10 +164,10 @@
             android:id="@+id/btn_text"
             android:layout_width="186.6dp"
             android:layout_height="24.6dp"
-            android:layout_alignStart="@+id/button2"
-            android:layout_alignTop="@+id/button2"
-            android:layout_alignEnd="@+id/button2"
-            android:layout_alignBottom="@+id/button2"
+            android:layout_alignStart="@+id/send_button"
+            android:layout_alignTop="@+id/send_button"
+            android:layout_alignEnd="@+id/send_button"
+            android:layout_alignBottom="@+id/send_button"
             android:layout_marginStart="75dp"
             android:layout_marginLeft="0dp"
             android:layout_marginTop="15dp"
