@@ -30,7 +30,7 @@
 
 
     <ImageButton
-        android:id="@+id/imageButton3"
+        android:id="@+id/back_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/vector_stroke"
@@ -41,7 +41,7 @@
         />
 
     <ImageButton
-        android:id="@+id/imageButton2"
+        android:id="@+id/profilepic"
         android:layout_width="80dp"
         android:layout_height="70dp"
         app:srcCompat="@drawable/baseline_add_24"
@@ -63,7 +63,7 @@
         />
 
     <EditText
-
+        android:id="@+id/Organization"
         android:layout_width="390dp"
         android:layout_height="wrap_content"
         android:hint="  XYZ Organization"
@@ -85,7 +85,7 @@
         />
 
     <EditText
-
+        android:id="@+id/location"
         android:layout_width="390dp"
         android:layout_height="wrap_content"
         android:hint=" location"
@@ -108,7 +108,7 @@
 
 
         <EditText
-
+            android:id="@+id/contact"
             android:layout_width="390dp"
             android:layout_height="wrap_content"
             android:hint=" phone no"
@@ -131,7 +131,7 @@
 
 
     <EditText
-
+        android:id="@+id/website"
         android:layout_width="390dp"
         android:layout_height="wrap_content"
         android:hint=" Web Url"

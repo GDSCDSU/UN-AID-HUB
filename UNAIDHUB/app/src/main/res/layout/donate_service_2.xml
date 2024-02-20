@@ -48,19 +48,19 @@
             android:layout_marginBottom="316dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
+        <EditText
             android:id="@+id/select_organization"
-            android:layout_width="81dp"
-            android:layout_height="39dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_alignStart="@+id/rectangle_55"
             android:layout_alignEnd="@+id/rectangle_55"
             android:layout_alignBottom="@+id/rectangle_55"
             android:layout_marginStart="9dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="66.83dp"
-            android:layout_marginEnd="118dp"
-            android:layout_marginBottom="2dp"
-            android:text="@string/notification_opt1"
+            android:layout_marginEnd="96dp"
+            android:layout_marginBottom="-4dp"
+            android:hint="@string/notification_opt1"
             android:textColor="@color/black"
             android:textSize="14sp" />
 

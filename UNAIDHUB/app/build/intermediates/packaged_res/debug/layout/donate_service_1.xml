@@ -48,19 +48,20 @@
             android:layout_marginBottom="316dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
+        <EditText
             android:id="@+id/select_organization"
-            android:layout_width="81dp"
-            android:layout_height="39dp"
+            android:focusable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_alignStart="@+id/rectangle_55"
             android:layout_alignEnd="@+id/rectangle_55"
             android:layout_alignBottom="@+id/rectangle_55"
             android:layout_marginStart="9dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="66.83dp"
-            android:layout_marginEnd="118dp"
-            android:layout_marginBottom="2dp"
-            android:text="@string/notification_opt1"
+            android:layout_marginEnd="76dp"
+            android:layout_marginBottom="-2dp"
+            android:hint="Select Organization"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -93,20 +94,21 @@
             android:background="@drawable/rectangle_5" />
 
 
-        <TextView
+        <EditText
             android:id="@+id/select_type"
-            android:layout_width="129.4dp"
-            android:layout_height="26.4dp"
+            android:focusable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="44dp"
             android:layout_alignStart="@+id/group_33906"
             android:layout_alignTop="@+id/group_33906"
             android:layout_alignEnd="@+id/group_33906"
             android:layout_alignBottom="@+id/group_33906"
             android:layout_marginStart="8dp"
             android:layout_marginLeft="19dp"
-            android:layout_marginTop="18dp"
+            android:layout_marginTop="0dp"
             android:layout_marginEnd="71dp"
             android:layout_marginBottom="12dp"
-            android:text="@string/notification_opt8"
+            android:hint="Type"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -137,18 +139,18 @@
             android:layout_marginBottom="156dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
+        <EditText
             android:id="@+id/type_quantity"
-            android:layout_width="105.4dp"
-            android:layout_height="26.4dp"
+            android:layout_width="107dp"
+            android:layout_height="45dp"
             android:layout_alignStart="@+id/group_33908"
             android:layout_alignTop="@+id/group_33908"
             android:layout_alignBottom="@+id/group_33908"
             android:layout_marginStart="3dp"
             android:layout_marginLeft="20dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="-4dp"
             android:layout_marginBottom="15dp"
-            android:text="@string/notification_opt3"
+            android:hint="Amount"
             android:textColor="@color/black"
             android:textSize="14sp" />
 

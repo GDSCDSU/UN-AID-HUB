@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.unaidhub.app-mergeDebugResources-29:/values-v18/values-v18.xml",
+            "outputFile": "com.example.unaidhub.app-mergeDebugResources-35:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\amish\\.gradle\\caches\\transforms-3\\cae0069d1585611eb98b1d4f16fa8d6e\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\amish\\.gradle\\caches\\transforms-3\\c787ed59abf7c456260da90a5e44c21b\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

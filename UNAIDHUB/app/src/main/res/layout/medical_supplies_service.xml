@@ -32,19 +32,19 @@
             android:layout_marginBottom="330dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
+        <EditText
             android:id="@+id/select_organization"
             android:layout_width="wrap_content"
-            android:layout_height="34dp"
+            android:layout_height="wrap_content"
             android:layout_alignStart="@+id/rectangle_55"
             android:layout_alignEnd="@+id/rectangle_55"
             android:layout_alignBottom="@+id/rectangle_55"
             android:layout_marginStart="9dp"
             android:layout_marginLeft="20dp"
             android:layout_marginTop="66.83dp"
-            android:layout_marginEnd="141dp"
+            android:layout_marginEnd="142dp"
             android:layout_marginBottom="13dp"
-            android:text="@string/notification_opt1"
+            android:hint="@string/notification_opt1"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -75,8 +75,8 @@
             android:layout_marginBottom="250dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
-            android:id="@+id/select_blood_type"
+        <EditText
+            android:id="@+id/select_medical_supplies"
             android:layout_width="129.4dp"
             android:layout_height="26.4dp"
             android:layout_alignStart="@+id/group_33906"
@@ -88,7 +88,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginEnd="69dp"
             android:layout_marginBottom="10dp"
-            android:text="@string/notification_opt5"
+            android:hint="@string/notification_opt5"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -119,7 +119,7 @@
             android:layout_marginBottom="175dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
+        <EditText
             android:id="@+id/type_quantity"
             android:layout_width="105.4dp"
             android:layout_height="26.4dp"
@@ -130,7 +130,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginTop="15dp"
             android:layout_marginBottom="15dp"
-            android:text="@string/notification_opt3"
+            android:hint="@string/notification_opt3"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -162,17 +162,17 @@
 
         <TextView
             android:id="@+id/btn_text"
-            android:layout_width="186.6dp"
-            android:layout_height="24.6dp"
+            android:layout_width="111dp"
+            android:layout_height="32dp"
             android:layout_alignStart="@+id/button2"
             android:layout_alignTop="@+id/button2"
             android:layout_alignEnd="@+id/button2"
             android:layout_alignBottom="@+id/button2"
-            android:layout_marginStart="75dp"
+            android:layout_marginStart="57dp"
             android:layout_marginLeft="0dp"
-            android:layout_marginTop="15dp"
-            android:layout_marginEnd="35dp"
-            android:layout_marginBottom="17dp"
+            android:layout_marginTop="9dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="15dp"
             android:text="@string/btn_Heading_3"
             android:textColor="@color/white"
             android:textSize="16sp"

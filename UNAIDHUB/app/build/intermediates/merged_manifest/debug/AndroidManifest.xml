@@ -8,6 +8,21 @@
         android:minSdkVersion="27"
         android:targetSdkVersion="34" />
 
+    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <queries>
+
+        <!-- Needs to be explicitly declared on Android R+ -->
+        <package android:name="com.google.android.apps.maps" />
+    </queries>
+
     <permission
         android:name="com.example.unaidhub.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
@@ -25,46 +40,59 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.UNAIDHUB" >
         <activity
-            android:name="com.example.unaidhub.Location"
+            android:name="com.example.unaidhub.passReset.Password"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.LiveChat"
+            android:name="com.example.unaidhub.profilesetups.UserSetup"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.wallet.api.enabled"
+            android:value="true" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.example.unaidhub.Features.Location"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.BotChat"
+            android:name="com.example.unaidhub.Chats.LiveChat"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.SetCard"
+            android:name="com.example.unaidhub.Chats.BotChat"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.OrgSetup"
+            android:name="com.example.unaidhub.profilesetups.SetCard"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.MyAccount"
+            android:name="com.example.unaidhub.profilesetups.OrgSetup"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Login"
+            android:name="com.example.unaidhub.Features.MyAccount"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Donation"
+            android:name="com.example.unaidhub.login.Login"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Service"
+            android:name="com.example.unaidhub.Features.Donation"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Home"
+            android:name="com.example.unaidhub.Features.Service"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Welcome4"
+            android:name="com.example.unaidhub.Features.Home"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Welcome3"
+            android:name="com.example.unaidhub.welcome.Welcome4"
             android:exported="false" />
         <activity
-            android:name="com.example.unaidhub.Welcome2"
+            android:name="com.example.unaidhub.welcome.Welcome3"
+            android:exported="false" />
+        <activity
+            android:name="com.example.unaidhub.welcome.Welcome2"
             android:exported="false" />
         <activity
             android:name="com.example.unaidhub.MainActivity"
@@ -76,6 +104,38 @@
             </intent-filter>
         </activity>
 
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service> <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.example.unaidhub.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.example.unaidhub.androidx-startup"

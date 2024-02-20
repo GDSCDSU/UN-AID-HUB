@@ -42,8 +42,8 @@
         android:textAppearance="@style/sign_up" />
 
 
-    <ImageView
-        android:id="@+id/map_1"
+    <fragment
+        android:id="@+id/map"
         android:layout_width="350dp"
         android:layout_height="281dp"
         android:layout_below="@+id/rectangle_1"
@@ -52,7 +52,6 @@
         android:layout_marginStart="22dp"
         android:layout_marginTop="35dp"
         android:layout_marginEnd="21dp"
-        android:contentDescription="map_1"
         android:src="@drawable/map" />
 
     <ImageView

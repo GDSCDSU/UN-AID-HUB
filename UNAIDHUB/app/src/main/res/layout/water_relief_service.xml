@@ -32,7 +32,7 @@
             android:layout_marginBottom="323dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
+        <EditText
             android:id="@+id/select_organization"
             android:layout_width="wrap_content"
             android:layout_height="34dp"
@@ -44,7 +44,7 @@
             android:layout_marginTop="66.83dp"
             android:layout_marginEnd="141dp"
             android:layout_marginBottom="13dp"
-            android:text="@string/notification_opt1"
+            android:hint="@string/notification_opt1"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -75,8 +75,8 @@
             android:layout_marginBottom="244dp"
             android:background="@drawable/rectangle_5" />
 
-        <TextView
-            android:id="@+id/select_blood_type"
+        <EditText
+            android:id="@+id/type_quantity"
             android:layout_width="129.4dp"
             android:layout_height="26.4dp"
             android:layout_alignStart="@+id/group_33906"
@@ -88,7 +88,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginEnd="69dp"
             android:layout_marginBottom="10dp"
-            android:text="@string/notification_opt3"
+            android:hint="@string/notification_opt3"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
