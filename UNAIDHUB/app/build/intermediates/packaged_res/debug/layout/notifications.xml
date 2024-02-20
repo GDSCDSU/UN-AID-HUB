@@ -1,0 +1,196 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="325dp"
+        android:layout_height="464dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="94dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="249dp"
+        android:background="@drawable/popup">
+
+        <ImageView
+            android:id="@+id/vector"
+            android:layout_width="18dp"
+            android:layout_height="22.5dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="vector"
+            android:src="@drawable/vector__1_" />
+
+        <TextView
+            android:id="@+id/notification_header"
+            android:layout_width="82.4dp"
+            android:layout_height="41.4dp"
+            android:layout_above="@+id/_bg__frame"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="196dp"
+            android:layout_marginBottom="27dp"
+            android:gravity="center"
+            android:text="@string/notification"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+
+        <View
+            android:id="@+id/_bg__frame"
+            android:layout_width="277dp"
+            android:layout_height="84dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="28dp"
+            android:layout_marginBottom="312dp"
+            android:background="@drawable/rectangle_5" />
+
+        <TextView
+            android:id="@+id/date_header_1"
+            android:layout_width="132.2dp"
+            android:layout_height="20.2dp"
+            android:layout_alignTop="@+id/_bg__frame"
+            android:layout_alignEnd="@+id/_bg__frame"
+            android:layout_alignBottom="@+id/_bg__frame"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginEnd="143dp"
+            android:layout_marginBottom="59dp"
+            android:text="@string/Today"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/news1"
+            android:layout_width="255dp"
+            android:layout_height="41dp"
+            android:layout_alignTop="@+id/_bg__frame"
+            android:layout_alignEnd="@+id/_bg__frame"
+            android:layout_alignBottom="@+id/_bg__frame"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="13dp"
+            android:text="@string/select_cont"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/_bg__frame2"
+            android:layout_width="wrap_content"
+            android:layout_height="86dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="25dp"
+            android:layout_marginBottom="218dp"
+            android:background="@drawable/rectangle_5" />
+
+        <TextView
+            android:id="@+id/date_header_2"
+            android:layout_width="132.2dp"
+            android:layout_height="20.2dp"
+            android:layout_above="@+id/_bg__frame2"
+            android:layout_alignTop="@+id/_bg__frame2"
+            android:layout_alignEnd="@+id/_bg__frame2"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="143dp"
+            android:layout_marginBottom="-25dp"
+            android:text="@string/Today"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/news2"
+            android:layout_width="261dp"
+            android:layout_height="50dp"
+            android:layout_alignTop="@+id/_bg__frame2"
+            android:layout_alignEnd="@+id/_bg__frame2"
+            android:layout_alignBottom="@+id/_bg__frame2"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="31dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="5dp"
+            android:text="@string/select_cont2"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/_bg__frame3"
+            android:layout_width="271dp"
+            android:layout_height="81dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="29dp"
+            android:layout_marginBottom="126dp"
+            android:background="@drawable/rectangle_5" />
+
+        <TextView
+            android:id="@+id/date_header_3"
+            android:layout_width="132.2dp"
+            android:layout_height="20.2dp"
+            android:layout_alignTop="@+id/_bg__frame3"
+            android:layout_alignEnd="@+id/_bg__frame3"
+            android:layout_alignBottom="@+id/_bg__frame3"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginEnd="137dp"
+            android:layout_marginBottom="60dp"
+            android:text="@string/Today"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/news3"
+            android:layout_width="258dp"
+            android:layout_height="43dp"
+            android:layout_alignTop="@+id/_bg__frame3"
+            android:layout_alignEnd="@+id/_bg__frame3"
+            android:layout_alignBottom="@+id/_bg__frame3"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="28dp"
+            android:layout_marginEnd="-7dp"
+            android:layout_marginBottom="15dp"
+            android:text="@string/select_cont3"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/close_button"
+            android:layout_width="56dp"
+            android:layout_height="61dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="-121dp"
+            android:layout_marginEnd="134dp"
+            android:layout_marginBottom="49dp"
+            android:background="@drawable/button_icon_fab" />
+    </RelativeLayout>
+
+</RelativeLayout>

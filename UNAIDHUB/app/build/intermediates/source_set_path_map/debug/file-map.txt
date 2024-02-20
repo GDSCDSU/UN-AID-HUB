@@ -1,0 +1,40 @@
+com.example.unaidhub.app-savedstate-1.2.1-0 C:\Users\amish\.gradle\caches\transforms-3\04c3c35d8faf2fda1653f8b0e7c1b917\transformed\savedstate-1.2.1\res
+com.example.unaidhub.app-emoji2-views-helper-1.2.0-1 C:\Users\amish\.gradle\caches\transforms-3\1145c60cafbafd68415bd2e463f48300\transformed\emoji2-views-helper-1.2.0\res
+com.example.unaidhub.app-recyclerview-1.1.0-2 C:\Users\amish\.gradle\caches\transforms-3\12d2dc8f38413f93a438d62fc2895f60\transformed\recyclerview-1.1.0\res
+com.example.unaidhub.app-lifecycle-livedata-2.6.1-3 C:\Users\amish\.gradle\caches\transforms-3\19268ee03b516b5fcaec070562ef05c4\transformed\lifecycle-livedata-2.6.1\res
+com.example.unaidhub.app-lifecycle-livedata-core-2.6.1-4 C:\Users\amish\.gradle\caches\transforms-3\23c9e176349808088ea644a164c59d0c\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.unaidhub.app-material-1.11.0-5 C:\Users\amish\.gradle\caches\transforms-3\291dc403e2fd5e466c2bab3fef9aac7c\transformed\material-1.11.0\res
+com.example.unaidhub.app-constraintlayout-2.1.4-6 C:\Users\amish\.gradle\caches\transforms-3\2a934a192713a14e89c9c1dc80f8ff09\transformed\constraintlayout-2.1.4\res
+com.example.unaidhub.app-annotation-experimental-1.3.0-7 C:\Users\amish\.gradle\caches\transforms-3\395d57b3c2567f9c6600c5fdb19e7b7c\transformed\annotation-experimental-1.3.0\res
+com.example.unaidhub.app-play-services-base-18.1.0-8 C:\Users\amish\.gradle\caches\transforms-3\439410e37600dedac53c60f5a0725e89\transformed\play-services-base-18.1.0\res
+com.example.unaidhub.app-fragment-1.3.6-9 C:\Users\amish\.gradle\caches\transforms-3\46b04e0d66a053d45db118d585259054\transformed\fragment-1.3.6\res
+com.example.unaidhub.app-coordinatorlayout-1.1.0-10 C:\Users\amish\.gradle\caches\transforms-3\4ae462f104a142d23204f92bc8384ced\transformed\coordinatorlayout-1.1.0\res
+com.example.unaidhub.app-firebase-common-20.4.2-11 C:\Users\amish\.gradle\caches\transforms-3\557e87ec66344110a8688c474450bd38\transformed\firebase-common-20.4.2\res
+com.example.unaidhub.app-core-ktx-1.9.0-12 C:\Users\amish\.gradle\caches\transforms-3\5a236064ed9df3c8fc3a4df18c83f4a0\transformed\core-ktx-1.9.0\res
+com.example.unaidhub.app-lifecycle-process-2.6.1-13 C:\Users\amish\.gradle\caches\transforms-3\5abd6cecb86a4aec32b60fd8c3960a27\transformed\lifecycle-process-2.6.1\res
+com.example.unaidhub.app-viewpager2-1.0.0-14 C:\Users\amish\.gradle\caches\transforms-3\5f135b766c3f5b55c05cd0b998d80ec6\transformed\viewpager2-1.0.0\res
+com.example.unaidhub.app-play-services-basement-18.1.0-15 C:\Users\amish\.gradle\caches\transforms-3\63601a29b30547d564fa8d686ae9b81e\transformed\play-services-basement-18.1.0\res
+com.example.unaidhub.app-transition-1.2.0-16 C:\Users\amish\.gradle\caches\transforms-3\69aea75b5ad783fdbefc6951065bfabd\transformed\transition-1.2.0\res
+com.example.unaidhub.app-lifecycle-viewmodel-savedstate-2.6.1-17 C:\Users\amish\.gradle\caches\transforms-3\756d14276647caecae77f2ad8a2af1fe\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.unaidhub.app-lifecycle-viewmodel-2.6.1-18 C:\Users\amish\.gradle\caches\transforms-3\7878afb0c0757530e61796f6a1404bc2\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.unaidhub.app-profileinstaller-1.3.0-19 C:\Users\amish\.gradle\caches\transforms-3\a0c732f55357b3cf0fe3c2e5bdc744d2\transformed\profileinstaller-1.3.0\res
+com.example.unaidhub.app-lifecycle-runtime-2.6.1-20 C:\Users\amish\.gradle\caches\transforms-3\a3112d32baf12e4b40f7071debba0ebb\transformed\lifecycle-runtime-2.6.1\res
+com.example.unaidhub.app-play-services-maps-18.2.0-21 C:\Users\amish\.gradle\caches\transforms-3\aa06ab63c1af72c21d0a6bc3c07c906e\transformed\play-services-maps-18.2.0\res
+com.example.unaidhub.app-emoji2-1.2.0-22 C:\Users\amish\.gradle\caches\transforms-3\ac8c46b88e9125930c5f980ee1444f8e\transformed\emoji2-1.2.0\res
+com.example.unaidhub.app-drawerlayout-1.1.1-23 C:\Users\amish\.gradle\caches\transforms-3\ba49baa1f9ae2094f8124e1ad0daef66\transformed\drawerlayout-1.1.1\res
+com.example.unaidhub.app-cardview-1.0.0-24 C:\Users\amish\.gradle\caches\transforms-3\be1932378c4802e0580a6230fe214d7c\transformed\cardview-1.0.0\res
+com.example.unaidhub.app-startup-runtime-1.1.1-25 C:\Users\amish\.gradle\caches\transforms-3\bf9e4c77898928bae26aebc97bb4e72f\transformed\startup-runtime-1.1.1\res
+com.example.unaidhub.app-play-services-wallet-19.3.0-beta01-26 C:\Users\amish\.gradle\caches\transforms-3\c27c3caa5c1e0786a040db0ce00b6247\transformed\play-services-wallet-19.3.0-beta01\res
+com.example.unaidhub.app-appcompat-resources-1.6.1-27 C:\Users\amish\.gradle\caches\transforms-3\c2c097bf4e0939a33a20d2188039cc17\transformed\appcompat-resources-1.6.1\res
+com.example.unaidhub.app-appcompat-1.6.1-28 C:\Users\amish\.gradle\caches\transforms-3\c787ed59abf7c456260da90a5e44c21b\transformed\appcompat-1.6.1\res
+com.example.unaidhub.app-core-runtime-2.2.0-29 C:\Users\amish\.gradle\caches\transforms-3\ce5fa9a69d0abd41768a8b46ffafec27\transformed\core-runtime-2.2.0\res
+com.example.unaidhub.app-core-1.9.0-30 C:\Users\amish\.gradle\caches\transforms-3\e01bf8b46fee0291d34745393386e187\transformed\core-1.9.0\res
+com.example.unaidhub.app-activity-1.8.0-31 C:\Users\amish\.gradle\caches\transforms-3\fc2b3ce3cd3bbd77754f7ccc357fcca4\transformed\activity-1.8.0\res
+com.example.unaidhub.app-pngs-32 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\build\generated\res\pngs\debug
+com.example.unaidhub.app-res-33 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\build\generated\res\processDebugGoogleServices
+com.example.unaidhub.app-resValues-34 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\build\generated\res\resValues\debug
+com.example.unaidhub.app-packageDebugResources-35 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.unaidhub.app-packageDebugResources-36 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.unaidhub.app-merged_res-37 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\build\intermediates\merged_res\debug
+com.example.unaidhub.app-debug-38 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\src\debug\res
+com.example.unaidhub.app-main-39 E:\UN AID HUB\UN-AID-HUB\UNAIDHUB\app\src\main\res

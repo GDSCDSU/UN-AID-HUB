@@ -1,0 +1,152 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="325dp"
+        android:layout_height="464dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="94dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="249dp"
+        android:background="@drawable/popup">
+
+
+        <TextView
+            android:id="@+id/support_heading"
+
+            android:layout_width="182dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/header_1"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginStart="78dp"
+            android:layout_marginLeft="52dp"
+            android:layout_marginEnd="66dp"
+            android:layout_marginBottom="21dp"
+            android:gravity="center"
+            android:text="@string/chatsupport"
+            android:textColor="@color/black"
+            android:textSize="13sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/close_button"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="133dp"
+            android:layout_marginTop="-121dp"
+            android:layout_marginEnd="128dp"
+            android:layout_marginBottom="18dp"
+            android:background="@drawable/button_icon_fab" />
+
+        <TextView
+            android:id="@+id/header_1"
+            android:layout_width="229dp"
+            android:layout_height="64dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginEnd="35dp"
+            android:layout_marginBottom="346dp"
+            android:text="@string/Help"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/support_text"
+            android:layout_width="319dp"
+            android:layout_height="97dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal|center"
+            android:layout_marginStart="51dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="108.83dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="249dp"
+            android:gravity="center"
+            android:text="@string/supportdesc"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/bot_chat_button"
+            android:layout_width="295dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="64dp"
+            android:layout_marginTop="179.83dp"
+            android:layout_marginEnd="51dp"
+            android:layout_marginBottom="178dp"
+            android:background="@drawable/button" />
+
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="155dp"
+            android:layout_height="21dp"
+            android:layout_alignStart="@+id/bot_chat_button"
+            android:layout_alignTop="@+id/bot_chat_button"
+            android:layout_alignEnd="@+id/bot_chat_button"
+            android:layout_alignBottom="@+id/bot_chat_button"
+            android:layout_marginStart="38dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="17dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="18dp"
+            android:text="@string/btn_Heading_1"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/live_chat_button2"
+            android:layout_width="295dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="64dp"
+            android:layout_marginTop="253.83dp"
+            android:layout_marginEnd="52dp"
+            android:layout_marginBottom="112dp"
+            android:background="@drawable/button" />
+
+        <TextView
+            android:id="@+id/text22"
+            android:layout_width="184dp"
+            android:layout_height="31dp"
+            android:layout_alignStart="@+id/live_chat_button2"
+            android:layout_alignTop="@+id/live_chat_button2"
+            android:layout_alignEnd="@+id/live_chat_button2"
+            android:layout_alignBottom="@+id/live_chat_button2"
+            android:layout_marginStart="22dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginEnd="2dp"
+            android:layout_marginBottom="11dp"
+            android:text="@string/btn_Heading_2"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</RelativeLayout>

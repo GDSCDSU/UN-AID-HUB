@@ -1,0 +1,431 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToOutline="true"
+    android:background="#F2F5F9"
+    tools:ignore="UnusedAttribute">
+
+    <View
+        android:id="@+id/rectangle_1"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-45dp"
+        android:layout_marginEnd="0dp"
+        android:background="@drawable/rectangle_1" />
+
+    <View
+        android:id="@+id/back_btn"
+        android:layout_width="44dp"
+        android:layout_height="41dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/group_33892" />
+
+
+    <TextView
+        android:id="@+id/services_header"
+        android:layout_width="wrap_content"
+        android:layout_height="51dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="14dp"
+        android:layout_marginTop="51dp"
+        android:gravity="center_horizontal|top"
+        android:text="@string/services"
+        android:textAppearance="@style/sign_up" />
+
+    <TextView
+        android:id="@+id/donation_services_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="120dp"
+        android:gravity="top"
+        android:lineSpacingExtra="7sp"
+        android:text="@string/donation_services"
+        android:textAppearance="@style/text"
+        android:translationY="-3.28sp" />
+
+    <View
+        android:id="@+id/vector"
+        android:layout_width="20.15dp"
+        android:layout_height="20.15dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="297dp"
+        android:layout_marginTop="29dp"
+        android:background="@drawable/vector" />
+
+    <View
+        android:id="@+id/group_33876"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="334dp"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/group_33876"
+        android:text="@string/select_cont" />
+
+    <View
+        android:id="@+id/service_1"
+        android:layout_width="315dp"
+        android:layout_height="78dp"
+        android:layout_below="@+id/rectangle_1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="45dp"
+        android:background="@drawable/rectangle_5" />
+
+
+    <TextView
+        android:id="@+id/service_label_1"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_alignTop="@+id/service_1"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/service1"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/service_image_1"
+        android:layout_width="69dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/service_1"
+        android:layout_alignTop="@+id/service_1"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="12dp"
+        android:contentDescription="download_4"
+        android:src="@drawable/blood" />
+
+
+    <View
+        android:id="@+id/solid_chevron_right_md"
+        android:layout_width="50dp"
+        android:layout_height="27dp"
+        android:layout_alignTop="@+id/service_1"
+        android:layout_alignEnd="@+id/service_1"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="21dp"
+        android:background="@drawable/solid_chevron_right" />
+
+    <View
+        android:id="@+id/service_2"
+        android:layout_width="316dp"
+        android:layout_height="68dp"
+        android:layout_below="@+id/service_1"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/rectangle_5" />
+
+    <TextView
+        android:id="@+id/service_label_2"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/service_2"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="35dp"
+        android:text="@string/service2"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/solid_chevron_right_md2"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/service_2"
+        android:layout_alignEnd="@+id/service_2"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="15dp"
+        android:background="@drawable/solid_chevron_right" />
+
+
+    <ImageView
+        android:id="@+id/service_image_2"
+        android:layout_width="66dp"
+        android:layout_height="42dp"
+        android:layout_alignTop="@+id/service_2"
+        android:layout_alignEnd="@+id/service_2"
+        android:layout_alignBottom="@+id/service_2"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginEnd="245dp"
+        android:layout_marginBottom="15dp"
+        android:contentDescription="_46688_1"
+        android:src="@drawable/water_relief" />
+
+    <View
+        android:id="@+id/service_3"
+        android:layout_width="320dp"
+        android:layout_height="98dp"
+        android:layout_below="@+id/service_2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="40dp"
+        android:background="@drawable/rectangle_5" />
+
+    <ImageView
+        android:id="@+id/service_image_3"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignStart="@+id/service_3"
+        android:layout_alignTop="@+id/service_3"
+        android:layout_alignEnd="@+id/service_3"
+        android:layout_alignBottom="@+id/service_3"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="223dp"
+        android:layout_marginBottom="9dp"
+        android:contentDescription="_1_5694334"
+        android:src="@drawable/food" />
+
+
+    <TextView
+        android:id="@+id/service_label_3"
+
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/service_3"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="35dp"
+        android:text="@string/service3"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/solid_chevron_right_md4"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignEnd="@+id/service_3"
+        android:layout_alignBottom="@+id/service_3"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="39dp"
+        android:background="@drawable/solid_chevron_right" />
+
+
+    <View
+        android:id="@+id/service_4"
+        android:layout_width="wrap_content"
+        android:layout_height="76dp"
+        android:layout_below="@+id/service_3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="43dp"
+        android:background="@drawable/rectangle_5" />
+
+    <ImageView
+        android:id="@+id/service_image_4"
+        android:layout_width="79dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/service_4"
+        android:layout_alignTop="@+id/service_4"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="11dp"
+        android:contentDescription="tqbyysikdpzbycmhzqodpfpy1g0lemohcfsanjo2_1"
+        android:src="@drawable/shelter" />
+
+    <TextView
+        android:id="@+id/service_label_4"
+        android:layout_width="141dp"
+        android:layout_height="42dp"
+        android:layout_alignTop="@+id/service_4"
+        android:layout_alignEnd="@+id/service_4"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="69dp"
+        android:text="@string/service4"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:id="@+id/solid_chevron_right_md5"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/service_4"
+        android:layout_alignEnd="@+id/service_4"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="19dp"
+        android:background="@drawable/solid_chevron_right" />
+
+
+    <View
+        android:id="@+id/service_5"
+        android:layout_width="320dp"
+        android:layout_height="98dp"
+        android:layout_below="@+id/service_4"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="38dp"
+        android:background="@drawable/rectangle_5" />
+
+    <ImageView
+        android:id="@+id/service_image_5"
+        android:layout_width="66dp"
+        android:layout_height="49dp"
+        android:layout_alignTop="@+id/service_5"
+        android:layout_alignEnd="@+id/service_5"
+        android:layout_alignBottom="@+id/service_5"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="242dp"
+        android:layout_marginBottom="27dp"
+        android:contentDescription="download__2__1"
+        android:src="@drawable/med_supp" />
+
+
+    <TextView
+        android:id="@+id/service_label_5"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_alignTop="@+id/service_5"
+        android:layout_alignEnd="@+id/service_5"
+        android:layout_alignBottom="@+id/service_5"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginBottom="27dp"
+        android:text="@string/service5"
+        android:textColor="@color/black"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/solid_chevron_right_md6"
+        android:layout_width="27.16dp"
+        android:layout_height="27.16dp"
+        android:layout_alignTop="@+id/service_5"
+        android:layout_alignEnd="@+id/service_5"
+        android:layout_alignBottom="@+id/service_5"
+        android:layout_marginStart="299.27dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="37dp"
+        android:background="@drawable/solid_chevron_right" />
+
+    <!-- Auto layout, variables, and unit scale are not yet supported -->
+
+
+    <!-- Auto layout, variables, and unit scale are not yet supported -->
+
+    <View
+        android:id="@+id/home_btn"
+        android:layout_width="30dp"
+        android:layout_height="26.08dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="687dp"
+        android:background="@drawable/home" />
+
+    <TextView
+        android:id="@+id/home"
+        android:layout_width="30dp"
+        android:layout_height="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="57dp"
+        android:layout_marginTop="725dp"
+        android:gravity="top"
+        android:text="@string/home"
+        android:textAppearance="@style/home" />
+
+    <View
+        android:id="@+id/service_btn"
+        android:layout_width="30dp"
+        android:layout_height="26.08dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="134dp"
+        android:layout_marginTop="686dp"
+        android:background="@drawable/services" />
+
+    <TextView
+        android:id="@+id/services"
+        android:layout_width="41dp"
+        android:layout_height="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="133dp"
+        android:layout_marginTop="726dp"
+        android:gravity="top"
+        android:text="@string/services"
+        android:textAppearance="@style/services" />
+
+    <View
+        android:id="@+id/Donation_btn"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="215dp"
+        android:layout_marginTop="685dp"
+        android:background="@drawable/donations" />
+
+    <TextView
+        android:id="@+id/donations"
+        android:layout_width="48dp"
+        android:layout_height="13dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="203dp"
+        android:layout_marginTop="726dp"
+        android:gravity="top"
+        android:text="@string/donations"
+        android:textAppearance="@style/donations" />
+
+    <View
+        android:id="@+id/account_box"
+        android:layout_width="30dp"
+        android:layout_height="29.08dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="683dp"
+        android:layout_marginRight="67dp"
+        android:background="@drawable/account" />
+
+    <TextView
+        android:id="@+id/my_account"
+        android:layout_width="57dp"
+        android:layout_height="13dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="725dp"
+        android:layout_marginEnd="55dp"
+        android:gravity="top"
+        android:text="@string/my_account"
+        android:textAppearance="@style/home" />
+
+
+</RelativeLayout>

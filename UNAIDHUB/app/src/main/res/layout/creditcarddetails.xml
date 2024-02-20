@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/bg_view"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/top_view"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="53dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:text="Credit Card Details"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vector_stroke"
+        android:padding="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/dark_blue"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Name"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="210dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint="  XYZ "
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="230dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter your credit card number"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="290dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+    <EditText
+        android:id="@+id/card_number"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint=" "
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="315dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CVV"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="370dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+    <EditText
+        android:id="@+id/cvv"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint=" "
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="390dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Month"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="445dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+    <EditText
+        android:id="@+id/card_month"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:hint="01"
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Year"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="445dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="280dp"
+        />
+    <EditText
+        android:id="@+id/card_year"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:hint="24 "
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="465dp"
+        android:layout_marginLeft="270dp"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Postal Code"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="520dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+
+    <EditText
+        android:id="@+id/postal_code"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint=" "
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="540dp"
+        android:layout_marginLeft="15dp"/>
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/solid_chevron_right"
+        android:layout_marginTop="600dp"
+        android:background="@drawable/rounddarkbutton"
+        android:layout_marginLeft="320dp"
+        />
+
+
+</RelativeLayout>

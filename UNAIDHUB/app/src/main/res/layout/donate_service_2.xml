@@ -1,0 +1,158 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="325dp"
+        android:layout_height="464dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="99dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginBottom="244dp"
+        android:background="@drawable/popup">
+
+
+        <TextView
+            android:id="@+id/Donation_header"
+            android:layout_width="216dp"
+            android:layout_height="47dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="58dp"
+            android:layout_marginBottom="393dp"
+            android:text="@string/donate_heading1"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/rectangle_55"
+            android:layout_width="296dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="51dp"
+            android:layout_marginTop="49.83dp"
+            android:layout_marginEnd="65dp"
+            android:layout_marginBottom="316dp"
+            android:background="@drawable/rectangle_5" />
+
+        <EditText
+            android:id="@+id/select_organization"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/rectangle_55"
+            android:layout_alignEnd="@+id/rectangle_55"
+            android:layout_alignBottom="@+id/rectangle_55"
+            android:layout_marginStart="9dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="66.83dp"
+            android:layout_marginEnd="96dp"
+            android:layout_marginBottom="-4dp"
+            android:hint="@string/notification_opt1"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+
+        <View
+            android:id="@+id/monotone_add"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignTop="@+id/rectangle_55"
+            android:layout_alignEnd="@+id/rectangle_55"
+            android:layout_alignBottom="@+id/rectangle_55"
+            android:layout_marginStart="242dp"
+            android:layout_marginTop="17dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/monotone_add" />
+
+
+        <View
+            android:id="@+id/group_33906"
+            android:layout_width="296dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="117.83dp"
+            android:layout_marginEnd="66dp"
+            android:layout_marginBottom="232dp"
+            android:background="@drawable/rectangle_5" />
+
+
+        <EditText
+            android:id="@+id/select_type"
+            android:layout_width="wrap_content"
+            android:layout_height="41dp"
+            android:layout_alignStart="@+id/group_33906"
+            android:layout_alignTop="@+id/group_33906"
+            android:layout_alignEnd="@+id/group_33906"
+            android:layout_alignBottom="@+id/group_33906"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="19dp"
+            android:layout_marginTop="9dp"
+            android:layout_marginEnd="71dp"
+            android:layout_marginBottom="6dp"
+            android:hint="Amount"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+
+        <View
+            android:id="@+id/button2"
+            android:layout_width="295dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="51dp"
+            android:layout_marginTop="253.83dp"
+            android:layout_marginEnd="66dp"
+            android:layout_marginBottom="100dp"
+            android:background="@drawable/button" />
+
+        <TextView
+            android:id="@+id/text22"
+            android:layout_width="186.6dp"
+            android:layout_height="24.6dp"
+            android:layout_alignStart="@+id/button2"
+            android:layout_alignTop="@+id/button2"
+            android:layout_alignEnd="@+id/button2"
+            android:layout_alignBottom="@+id/button2"
+            android:layout_marginStart="52dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginEnd="58dp"
+            android:layout_marginBottom="18dp"
+            android:text="@string/btn_heading_4"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/close_button"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="-121dp"
+            android:layout_marginEnd="141dp"
+            android:layout_marginBottom="17dp"
+            android:background="@drawable/button_icon_fab" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

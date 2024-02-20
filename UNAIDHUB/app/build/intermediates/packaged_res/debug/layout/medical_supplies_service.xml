@@ -1,0 +1,209 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/frame">
+
+
+    <RelativeLayout
+        android:layout_width="325dp"
+        android:layout_height="464dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="115dp"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="228dp"
+        android:background="@drawable/popup">
+
+
+        <View
+            android:id="@+id/rectangle_55"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="21dp"
+            android:layout_marginTop="49.83dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="330dp"
+            android:background="@drawable/rectangle_5" />
+
+        <EditText
+            android:id="@+id/select_organization"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/rectangle_55"
+            android:layout_alignEnd="@+id/rectangle_55"
+            android:layout_alignBottom="@+id/rectangle_55"
+            android:layout_marginStart="9dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="66.83dp"
+            android:layout_marginEnd="142dp"
+            android:layout_marginBottom="13dp"
+            android:hint="@string/notification_opt1"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@+id/monotone_add"
+            android:layout_width="37dp"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/rectangle_55"
+            android:layout_alignEnd="@+id/rectangle_55"
+            android:layout_alignBottom="@+id/rectangle_55"
+            android:layout_marginStart="242dp"
+            android:layout_marginTop="17dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="14dp"
+            android:background="@drawable/monotone_add" />
+
+
+        <View
+            android:id="@+id/group_33906"
+            android:layout_width="298dp"
+            android:layout_height="73dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="21dp"
+            android:layout_marginTop="117.83dp"
+            android:layout_marginEnd="7dp"
+            android:layout_marginBottom="250dp"
+            android:background="@drawable/rectangle_5" />
+
+        <EditText
+            android:id="@+id/select_medical_supplies"
+            android:layout_width="129.4dp"
+            android:layout_height="26.4dp"
+            android:layout_alignStart="@+id/group_33906"
+            android:layout_alignTop="@+id/group_33906"
+            android:layout_alignEnd="@+id/group_33906"
+            android:layout_alignBottom="@+id/group_33906"
+            android:layout_marginStart="11dp"
+            android:layout_marginLeft="19dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="69dp"
+            android:layout_marginBottom="10dp"
+            android:hint="@string/notification_opt5"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+
+        <View
+            android:id="@+id/monotone_add2"
+            android:layout_width="37dp"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/group_33906"
+            android:layout_alignEnd="@+id/group_33906"
+            android:layout_alignBottom="@+id/group_33906"
+            android:layout_marginStart="241dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="19dp"
+            android:layout_marginBottom="11dp"
+            android:background="@drawable/monotone_add" />
+
+        <View
+            android:id="@+id/group_33908"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="19dp"
+            android:layout_marginTop="185.83dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginBottom="175dp"
+            android:background="@drawable/rectangle_5" />
+
+        <EditText
+            android:id="@+id/type_quantity"
+            android:layout_width="105.4dp"
+            android:layout_height="26.4dp"
+            android:layout_alignStart="@+id/group_33908"
+            android:layout_alignTop="@+id/group_33908"
+            android:layout_alignBottom="@+id/group_33908"
+            android:layout_marginStart="14dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:hint="@string/notification_opt3"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <View
+            android:id="@+id/monotone_add3"
+            android:layout_width="37dp"
+            android:layout_height="30dp"
+            android:layout_alignTop="@+id/group_33908"
+            android:layout_alignEnd="@+id/group_33908"
+            android:layout_alignBottom="@+id/group_33908"
+            android:layout_marginStart="242dp"
+            android:layout_marginTop="11dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginBottom="13dp"
+            android:background="@drawable/monotone_add" />
+
+        <View
+            android:id="@+id/button2"
+            android:layout_width="295dp"
+            android:layout_height="56dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="57dp"
+            android:layout_marginTop="253.83dp"
+            android:layout_marginEnd="59dp"
+            android:layout_marginBottom="96dp"
+            android:background="@drawable/button" />
+
+        <TextView
+            android:id="@+id/btn_text"
+            android:layout_width="111dp"
+            android:layout_height="32dp"
+            android:layout_alignStart="@+id/button2"
+            android:layout_alignTop="@+id/button2"
+            android:layout_alignEnd="@+id/button2"
+            android:layout_alignBottom="@+id/button2"
+            android:layout_marginStart="57dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="9dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="15dp"
+            android:text="@string/btn_Heading_3"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/close_button"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="-121dp"
+            android:layout_marginEnd="124dp"
+            android:layout_marginBottom="19dp"
+            android:background="@drawable/button_icon_fab" />
+
+        <TextView
+            android:id="@+id/Blood_Donation_Heading"
+            android:layout_width="161dp"
+            android:layout_height="61dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="81dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="84dp"
+            android:text="@string/service4"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/frame">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="325dp"
+        android:layout_height="464dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="115dp"
+        android:layout_marginEnd="34dp"
+        android:layout_marginBottom="228dp"
+        android:background="@drawable/popup">
+
+
+        <ImageView
+            android:id="@+id/confirmation_picture"
+            android:layout_width="wrap_content"
+            android:layout_height="184dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="75dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="77dp"
+            android:layout_marginBottom="180dp"
+            android:background="@drawable/confirm" />
+
+        <View
+            android:id="@+id/close_button"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="-121dp"
+            android:layout_marginEnd="135dp"
+            android:layout_marginBottom="53dp"
+            android:background="@drawable/button_icon_fab" />
+
+        <TextView
+            android:id="@+id/Donation_header"
+            android:layout_width="226dp"
+            android:layout_height="31dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="43dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="396dp"
+            android:text="@string/service5"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</RelativeLayout>

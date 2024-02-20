@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
+
+
+    <View
+        android:id="@+id/top_view"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:background="@drawable/bg_view"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile Set Up"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        />
+
+
+    <ImageButton
+        android:id="@+id/back_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vector_stroke"
+        android:padding="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/dark_blue"
+        />
+
+    <ImageButton
+        android:id="@+id/profilepic"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        app:srcCompat="@drawable/baseline_add_24"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="160dp"
+        android:background="@drawable/roundwhitebackground"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User Name"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="240dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+    <EditText
+        android:id="@+id/Username"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint="  XYZ Organization"
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location/city"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="330dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+    <EditText
+        android:id="@+id/location"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint=" location"
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginLeft="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Number"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="435dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        />
+
+
+    <EditText
+        android:id="@+id/contact"
+        android:layout_width="390dp"
+        android:layout_height="wrap_content"
+        android:hint=" phone no"
+        android:background="@drawable/rounded_corner"
+        android:padding="15dp"
+        android:layout_marginTop="460dp"
+        android:layout_marginLeft="15dp"/>
+
+
+
+
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/solid_chevron_right"
+        android:layout_marginTop="600dp"
+        android:background="@drawable/rounddarkbutton"
+        android:layout_marginLeft="320dp"
+        />
+
+
+</RelativeLayout>

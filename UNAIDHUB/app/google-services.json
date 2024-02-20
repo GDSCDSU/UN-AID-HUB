@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895606723870",
+    "project_id": "un-aid-hub-4d5a0",
+    "storage_bucket": "un-aid-hub-4d5a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895606723870:android:18b1e21ea00c1b19da250f",
+        "android_client_info": {
+          "package_name": "com.example.unaidhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccZse4t4FJa-CL9EhcKX8w03YYUxB8Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

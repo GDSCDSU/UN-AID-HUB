@@ -1,0 +1,39 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true">
+
+
+    <View
+        android:id="@+id/search_box"
+        android:layout_width="296dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="105dp"
+        android:background="@drawable/search" />
+
+    <EditText
+        android:id="@+id/text"
+        android:layout_width="173dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/search_box"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="2dp"
+        android:hint="@string/search"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <ImageView android:id="@+id/vector"
+        android:src="@drawable/magnifying"
+        android:contentDescription=""
+        android:layout_marginStart="295dp"
+        android:layout_marginTop="123dp"
+        android:layout_width="20.13dp"
+        android:layout_height="19.15dp" />
+
+
+
+
+</RelativeLayout>
