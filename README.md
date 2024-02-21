@@ -27,7 +27,7 @@ Through real-time updates and comprehensive coverage, we aim to raise awareness,
 
 ## 📽️ Demo Video
 
-VideoLink: [![Image Description]((https://github.com/Amish360/Uni-management-System/blob/main/Thumbnail.png?raw=true)))]
+VideoLink: [![Image Description](https://github.com/Amish360/Uni-management-System/blob/main/Thumbnail.png?raw=true)
 
 ## 💻 Key Functionalities
 
