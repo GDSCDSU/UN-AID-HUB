@@ -44,7 +44,7 @@
             android:layout_marginTop="66.83dp"
             android:layout_marginEnd="142dp"
             android:layout_marginBottom="6dp"
-            android:text="@string/notification_opt1"
+            android:hint="@string/notification_opt1"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -86,7 +86,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginEnd="104dp"
             android:layout_marginBottom="10dp"
-            android:text="@string/notification_opt2"
+            android:hint="@string/notification_opt2"
             android:textColor="@color/black"
             android:textSize="14sp" />
 
@@ -128,7 +128,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginTop="15dp"
             android:layout_marginBottom="15dp"
-            android:text="@string/notification_opt3"
+            android:hint="@string/notification_opt3"
             android:textColor="@color/black"
             android:textSize="14sp" />
 

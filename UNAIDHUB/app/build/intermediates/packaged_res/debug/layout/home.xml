@@ -313,7 +313,7 @@
         android:textAppearance="@style/home" />
 
     <View
-        android:id="@+id/service_btn"
+        android:id="@+id/services_btn"
         android:layout_width="30dp"
         android:layout_height="26.08dp"
         android:layout_alignParentLeft="true"

@@ -17,7 +17,6 @@ import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import com.example.unaidhub.DataClasses.donationsClass;
-import com.example.unaidhub.DataClasses.serviceClass;
 import com.example.unaidhub.GooglePayAPI.CheckoutViewModel;
 import com.example.unaidhub.R;
 import com.google.android.gms.common.api.CommonStatusCodes;
@@ -230,23 +229,23 @@ public class Donation extends AppCompatActivity {
         //amountbox = findViewById(R.id.type_quantity);
         //long amount = amountbox.getText().length();
 
-        EditText Opt1 = findViewById(R.id.select_organization);
+        /*EditText Opt1 = findViewById(R.id.select_organization);
         EditText Opt2 = findViewById(R.id.select_type);
         EditText Opt3 = findViewById(R.id.type_quantity);
 
         String opt1 = Opt1.getText().toString();
         String opt2 = Opt2.getText().toString();
-        String opt3 = Opt2.getText().toString();
+        String opt3 = Opt2.getText().toString();*/
 
         View send = popupView.findViewById(R.id.button2);
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                writeDB(opt1,opt2,opt3);
+                /*writeDB(opt1,opt2,opt3);
                 Opt1.setText("");
                 Opt2.setText("");
-                Opt3.setText("");
+                Opt3.setText("");*/
                 confirmService(v);
             }
         });
@@ -331,19 +330,19 @@ public class Donation extends AppCompatActivity {
             }
         });
 
-        EditText Opt1 = findViewById(R.id.select_organization);
+        /*EditText Opt1 = findViewById(R.id.select_organization);
         EditText Opt2 = findViewById(R.id.type_quantity);
 
         String opt1 = Opt1.getText().toString();
-        String opt2 = Opt2.getText().toString();
+        String opt2 = Opt2.getText().toString();*/
 
         View send = popupView.findViewById(R.id.button2);
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                writeDB(opt1,opt2);
+                /*writeDB(opt1,opt2);
                 Opt1.setText("");
-                Opt2.setText("");
+                Opt2.setText("");*/
                 confirmService(v);
             }
         });

@@ -2,7 +2,6 @@ package com.example.unaidhub.Features;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.ViewModelProvider;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,8 +13,6 @@ import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 
 import com.example.unaidhub.DataClasses.serviceClass;
-import com.example.unaidhub.DataClasses.userDetails;
-import com.example.unaidhub.GooglePayAPI.CheckoutViewModel;
 import com.example.unaidhub.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
@@ -46,8 +43,6 @@ public class Service extends AppCompatActivity {
     private PopupWindow popupSevice5;
 
     private PopupWindow popupconfirm1;
-
-
 
     FirebaseDatabase DB;
     DatabaseReference reference;
@@ -83,12 +78,6 @@ public class Service extends AppCompatActivity {
             }
         });
 
-        Back.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                onBackPressed();
-            }
-        });
 
         Donations.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -199,10 +188,7 @@ public class Service extends AppCompatActivity {
         send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                writeDB(serviceName,opt1,opt2,opt3);
-                Opt1.setText("");
-                Opt2.setText("");
-                Opt3.setText("");
+
                 confirmService(v);
             }
         });
