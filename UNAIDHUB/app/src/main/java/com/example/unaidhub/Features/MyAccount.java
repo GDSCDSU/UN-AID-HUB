@@ -9,9 +9,8 @@ import android.view.View;
 import android.widget.PopupWindow;
 import android.widget.RelativeLayout;
 
-import com.example.unaidhub.login.Login;
 import com.example.unaidhub.R;
-import com.example.unaidhub.passReset.Password;
+import com.example.unaidhub.login.Login;
 
 public class MyAccount extends AppCompatActivity {
 

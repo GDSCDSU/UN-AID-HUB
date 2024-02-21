@@ -1,618 +1,622 @@
 [
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_bg_view.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/bg_view.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_med_supp.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\med_supp.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_home.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/home.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_donte_now.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\donte_now.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_food.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/food.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_profile_set_up.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\profile_set_up.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_welcomeimg3.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/welcomeimg3.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_emergency_shelter_service.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\emergency_shelter_service.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solid_warning.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solid_warning.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rectangle_29.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rectangle_29.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vectorstroke3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vectorstroke3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_donate_confirm_1.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/donate_confirm_1.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rectangle_5.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rectangle_5.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_login.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/login.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_location.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\location.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_group_33876.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/group_33876.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_google13x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\google13x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_emergency_shelter_confirm.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\emergency_shelter_confirm.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_frame1.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/frame1.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_input_text.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/input_text.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_red_chevron.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\red_chevron.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_general.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/general.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_donate_service_2.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\donate_service_2.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_searchbar.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/searchbar.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\logo.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_google_1.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/google_1.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_livechat.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\livechat.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_profile_set_user.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/profile_set_user.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_popup.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\popup.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_email.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/email.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solidwarning3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solidwarning3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_content.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\content.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rectangle_51.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rectangle_51.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_navrectangle.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\navrectangle.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_notifications.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/notifications.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotone_add.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotone_add.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_med_supp.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/med_supp.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_lastpic.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\lastpic.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotoneadd23x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotoneadd23x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_welcome_2.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\welcome_2.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotoneadd13x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotoneadd13x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_chatsupport.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\chatsupport.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotone_gender_male.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotone_gender_male.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_group_33892.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/group_33892.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rectangle_29.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rectangle_29.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_donate_service_1.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/donate_service_1.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_button_icon_fab.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\button_icon_fab.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_blood.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/blood.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_shelter.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\shelter.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_password_sent.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/password_sent.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_confirm.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/confirm.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_button_primary.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\button_primary.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_donte_now.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/donte_now.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_sign_in.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\sign_in.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_location.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/location.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rounded_corner.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_welcome_4.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/welcome_4.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_my_account.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\my_account.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotone_add.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotone_add.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_frame3.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\frame3.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector_stroke.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector_stroke.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rectangle_1.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rectangle_1.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solidchevronrightmd13x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solidchevronrightmd13x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solidchevronrightmd3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solidchevronrightmd3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_google_1.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\google_1.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_baseline_add_24.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/baseline_add_24.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_profile_set_user.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\profile_set_user.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_profile_setup_org.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/profile_setup_org.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_water_relief_service.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\water_relief_service.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_roundwhitebackground.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\roundwhitebackground.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_frame.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/frame.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_donations.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\donations.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotone_add3.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotone_add3.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_frame1.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\frame1.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_welcome_1.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/welcome_1.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_cross.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/cross.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_group_33892.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\group_33892.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_donate_service_2.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/donate_service_2.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solidwarning3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solidwarning3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_water_relief_service.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/water_relief_service.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_frame2.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\frame2.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_fb_icon.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\fb_icon.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_custome_button.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/custome_button.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_attachment.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\attachment.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_group_60.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/group_60.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_welcomeimg4.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\welcomeimg4.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector13x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector13x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_logo13x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\logo13x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector23x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector23x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotone.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotone.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotoneadd3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotoneadd3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_home.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/home.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_bg_view.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\bg_view.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_logo.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/logo.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_chatrectangle.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\chatrectangle.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_newsimg1.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/newsimg1.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rectangle_51.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rectangle_51.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_chat_bot.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/chat_bot.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\round_button.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector43x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector43x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_food_type_service.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/food_type_service.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_forgot_password.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\forgot_password.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_welcomeimg4.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/welcomeimg4.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_attachment.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/attachment.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector33x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector33x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_sign_in.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/sign_in.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_password_sent.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\password_sent.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotoneadd3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotoneadd3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_logo3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\logo3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rectangle_50.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rectangle_50.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotone_gender_male.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotone_gender_male.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_welcomeimg1.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/welcomeimg1.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_home.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\home.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/xml_backup_rules.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_profilesuccesfull.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/profilesuccesfull.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_login.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\login.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_blood_donate_confirm.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/blood_donate_confirm.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_welcome_4.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\welcome_4.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_food_service_confirm.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/food_service_confirm.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector_stroke.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector_stroke.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_round_button.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/round_button.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_map.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\map.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solid_chevron_right.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solid_chevron_right.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rectangle_1.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rectangle_1.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_newsimg4.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/newsimg4.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_newsimg5.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\newsimg5.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_searchbar.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\searchbar.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_frame33x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\frame33x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_services.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/services.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solideye13x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solideye13x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solideye13x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solideye13x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_food_type_service.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\food_type_service.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solideye3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solideye3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_blood_donate_service.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\blood_donate_service.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_logo13x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/logo13x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\search.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_medical_supplies_service.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/medical_supplies_service.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_food.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\food.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_send_btn.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/send_btn.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_welcome_1.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\welcome_1.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_medical_supplies_confirm.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/medical_supplies_confirm.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_progress_bar.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\progress_bar.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_fb_icon.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/fb_icon.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_logo1.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\logo1.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_frame.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\frame.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_button_primary.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/button_primary.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_account.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\account.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector13x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector13x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_confirm.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\confirm.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_newsimg3.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/newsimg3.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_welcomeimg2.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\welcomeimg2.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector23x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector23x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_chatbot.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\chatbot.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_donations.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/donations.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_medical_supplies_confirm.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\medical_supplies_confirm.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rounded_corner.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rounded_corner.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solid_eye1.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solid_eye1.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_button_icon_fab.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/button_icon_fab.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_medical_supplies_service.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\medical_supplies_service.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_services.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\services.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_logo3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/logo3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_logout_confirm.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\logout_confirm.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_emergency_shelter_confirm.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/emergency_shelter_confirm.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_profilesuccesfull.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\profilesuccesfull.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vectorstroke3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vectorstroke3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_newsimg2.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\newsimg2.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_progress_bar.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/progress_bar.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solideye3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solideye3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_water_relief_confirm.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/water_relief_confirm.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rectangle_26.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rectangle_26.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_welcome_3.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/welcome_3.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_services.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/services.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_profile_setup_org.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\profile_setup_org.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_logout_confirm.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/logout_confirm.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_services.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\services.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_my_account.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/my_account.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_welcomeimg1.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\welcomeimg1.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rectangle_26.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rectangle_26.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_frame2.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/frame2.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\splash.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_donations.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/donations.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\email.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_forgot_password.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/forgot_password.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\baseline_add_24.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_red_chevron.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/red_chevron.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotone_add3.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotone_add3.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_chatrectangle.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/chatrectangle.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rectangle_50.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rectangle_50.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_navrectangle.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/navrectangle.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotoneadd23x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotoneadd23x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_content.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/content.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_button.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/button.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_icon.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/icon.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotoneadd13x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotoneadd13x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_newsimg2.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/newsimg2.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_water_relief.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\water_relief.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_frame3.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/frame3.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_newsimg3.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\newsimg3.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rounddarkbutton.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rounddarkbutton.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotoneadd43x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotoneadd43x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_baseline_ad_units_24.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/baseline_ad_units_24.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\button.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_insta_icon.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/insta_icon.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_cross.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\cross.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotoneadd33x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotoneadd33x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_general.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\general.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_newsimg5.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/newsimg5.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_send_btn.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\send_btn.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotoneadd43x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotoneadd43x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotoneadd33x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotoneadd33x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_google13x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/google13x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_newsimg1.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\newsimg1.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solid_chevron_right_md.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solid_chevron_right_md.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_blood_donate_confirm.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\blood_donate_confirm.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_rectangle_5.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/rectangle_5.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_chat_bot.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\chat_bot.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector__1_.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector__1_.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_welcomeimg2.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/welcomeimg2.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_roundwhitebackground.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/roundwhitebackground.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_vector.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\vector.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_magnifying.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/magnifying.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_donate_service_1.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\donate_service_1.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solid_warning.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solid_warning.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_group_60.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\group_60.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solid_chevron_right_md.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solid_chevron_right_md.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_custome_button.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\custome_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_insta_icon.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\insta_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_blood.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\blood.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_welcome_3.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\welcome_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_group_33876.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\group_33876.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solidchevronrightmd3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solidchevronrightmd3x.png"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_newsimg4.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\newsimg4.png"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_donations.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\donations.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_food_service_confirm.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\food_service_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_signup_for_free.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\signup_for_free.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_water_relief_confirm.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\water_relief_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_solid_chevron_right.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\solid_chevron_right.png"
     },
     {
         "merged": "com.example.unaidhub.app-merged_res-37:/layout_blood_donate_service.xml.flat",
         "source": "com.example.unaidhub.app-main-39:/layout/blood_donate_service.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_splash.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/splash.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_rounddarkbutton.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\rounddarkbutton.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_monotonegendermale3x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/monotonegendermale3x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_input_text.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\input_text.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_creditcarddetails.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/creditcarddetails.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_donate_confirm_1.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\donate_confirm_1.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_map.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/map.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotonegendermale3x.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotonegendermale3x.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector33x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector33x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_welcomeimg3.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\welcomeimg3.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_search.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/search.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\icon.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_profile_set_up.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/profile_set_up.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_monotone.png.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\monotone.png"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector__1_.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector__1_.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_baseline_ad_units_24.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\baseline_ad_units_24.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_livechat.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/livechat.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_notifications.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\notifications.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solid_eye1.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solid_eye1.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_water_relief.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/water_relief.xml"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\layout_creditcarddetails.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\layout\\creditcarddetails.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_vector43x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/vector43x.png"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\home.xml"
     },
     {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_account.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/account.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_signup_for_free.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/signup_for_free.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-anydpi/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_emergency_shelter_service.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/emergency_shelter_service.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_frame33x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/frame33x.png"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_chatsupport.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/chatsupport.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_popup.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/popup.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_logo1.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/logo1.png"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_solidchevronrightmd13x.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/solidchevronrightmd13x.png"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_lastpic.png.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/lastpic.png"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/drawable_shelter.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/drawable/shelter.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_welcome_2.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/welcome_2.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/layout_chatbot.xml.flat",
-        "source": "com.example.unaidhub.app-main-39:/layout/chatbot.xml"
-    },
-    {
-        "merged": "com.example.unaidhub.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.unaidhub.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-merged_res-37:\\drawable_magnifying.xml.flat",
+        "source": "C:\\Users\\amish\\.gradle\\daemon\\8.2\\com.example.unaidhub.app-main-39:\\drawable\\magnifying.xml"
     }
 ]

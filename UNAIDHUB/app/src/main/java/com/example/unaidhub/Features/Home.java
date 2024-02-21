@@ -37,7 +37,7 @@ public class Home extends AppCompatActivity {
         setContentView(R.layout.home);
 
         Home = findViewById(R.id.home_btn);
-        Services = findViewById(R.id.service_btn);
+        Services = findViewById(R.id.services_btn);
         Donations = findViewById(R.id.donations);
         MyAccount = findViewById(R.id.account_box);
         Chat_bot = findViewById(R.id.chat_bot);
