@@ -27,7 +27,7 @@ Through real-time updates and comprehensive coverage, we aim to raise awareness,
 
 ## 📽️ Demo Video
 
-VideoLink:[Link](https://youtu.be/tGd9eeP964k)
+VideoLink:[Thumbnail.png](https://youtu.be/tGd9eeP964k)
 
 ## 💻 Key Functionalities
 
