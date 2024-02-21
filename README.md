@@ -82,7 +82,7 @@ Goal 3 focuses on ensuring access to essential health services, which is crucial
 
 For Android User
 
-Download the apk file for your mobile version [here](https://drive.google.com/file/d/1JeEfpi5EaFlSs2XwIj3EfE4aikxkvUR5/view?usp=sharing).
+Download the apk file for your mobile version [here](https://github.com/Amish360/Uni-management-System/blob/5631f73692f41a3fa30857d894b772d12df5ceff/UN%20AID%20HUB.apk).
 Run the apk file on your phone.
 
 
